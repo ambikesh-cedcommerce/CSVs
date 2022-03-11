@@ -1,0 +1,11 @@
+post_id,comment_author,comment_author_email,comment_author_url,comment_content,comment_author_IP,comment_date,comment_approved
+1570,admin,rja@muthu.com,http://www.smackcoders.com,comment content,10.2.1.202,12/02/13,1
+1077,admin,raja@muthu.com,http://www.google.com,second comment comment content,10.2.1.114,12/02/13,1
+2202,admin,wqw@qwwq.com,http://www.smackcoders.com,comment content,10.2.1.115,12/02/13,0
+1660,testuser,dc@sdv.com,http://www.google.com,second comment comment content,10.2.1.116,12/02/13,2
+1965,testuser,adcas@gvf.com,http://www.smackcoders.com,comment content,10.2.1.117,12/02/13,1
+2231,testuser,asd@gv.com,http://www.google.com,second comment comment content,10.2.1.118,12/02/13,1
+1870,sample_user,qwdc@vgfb.com,http://www.smackcoders.com,comment content,10.2.1.119,12/02/13,0
+744,sample_user,asfrg@fvfdvb.com,http://www.google.com,second comment comment content,10.2.1.120,12/02/13,1
+1953,sample_user,opj@dvsdv.com,http://www.smackcoders.com,comment content,10.2.1.121,12/02/13,0
+1546,new_user,lkm@sdv.com,http://www.google.com,second comment comment content,10.2.1.122,12/02/13,1

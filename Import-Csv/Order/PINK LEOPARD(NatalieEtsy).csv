@@ -1,0 +1,959 @@
+First Name (Billing),Last Name (Billing),Email (Billing),Postcode (Billing),Phone (Billing),City (Billing),Country Name (Billing),Currency,Order ID,Order Date,Order Line Total,Quantity
+Ita,Brennan,itabrennan1990@live.ie,R35 N578,868678608,Daingean,Ireland,GBP,607915,2022-01-08 23:55,18.75,1
+Ita,Brennan,itabrennan1990@live.ie,R35 N578,868678608,Daingean,Ireland,GBP,607915,2022-01-08 23:55,18.75,1
+Vanessa,Sparkes,v.sparkes@yahoo.co.uk,TN23 6ND,07782 301139,Ashford,United Kingdom (UK),GBP,607914,2022-01-08 23:42,17.5,1
+Hayley,Farrell,bluesainthayley@outlook.com,WA9 4SB,7958117450,St. Helens,United Kingdom (UK),GBP,607912,2022-01-08 23:23,40,3
+Suzanne,Brown,suzannebrown2601@btinternet.com,EH22 3FF,7887753667,Dalkeith,United Kingdom (UK),GBP,607910,2022-01-08 22:47,20.833333,1
+Lorraine,Sellars,lorraine76@outlook.com,G66 1PY,07479 060103,Glasgow,United Kingdom (UK),GBP,607906,2022-01-08 22:26,10.416667,1
+Caroline ,Jefferies,jcjefferies@hotmail.com,BA3 3NN,7790280377,Radstock,United Kingdom (UK),GBP,607905,2022-01-08 22:04,23.75,1
+Beverley,Malton,funkynailsinrichmond@yahoo.co.uk,DL9 4GF,7774766575,Catterick garrison,United Kingdom (UK),GBP,607901,2022-01-08 21:55,27.5,1
+Natalie,Leigh,natalieleigh@hotmail.co.uk,M22 4AP,7814357062,Manchester,United Kingdom (UK),GBP,607900,2022-01-08 21:40,22.5,1
+Nicole,Fraser,nicole.fraser2@virgin.net,HP9 1GY, +44 1494677726,Beaconsfield,United Kingdom (UK),GBP,607899,2022-01-08 21:37,34.583333,1
+Jenny,Brammer,jennylperks@icloud.com,ST8 6SF,7807977729,Stoke-on-Trent,United Kingdom (UK),GBP,607898,2022-01-08 21:36,21.666667,1
+Lyndsay,Duffee,duffee36@gmail.com,BA3 3TU,7977849068,Westfield Radstock,United Kingdom (UK),GBP,607893,2022-01-08 21:26,9.166667,1
+Lyndsay,Duffee,duffee36@gmail.com,BA3 3TU,7977849068,Westfield Radstock,United Kingdom (UK),GBP,607893,2022-01-08 21:26,7.5,1
+Leila,Lee,Leilalee68@live.co.uk,DL16 6EY, +44 7585118160,Spennymoor,United Kingdom (UK),GBP,607892,2022-01-08 21:25,33.333333,1
+Corinne,Lowe,Mmidlo4@googlemail.com,EH49 6HP, +44 7731476483,Linlithgow,United Kingdom (UK),GBP,607890,2022-01-08 20:55,22.5,1
+Elizabeth,McPherson,lizihamilton@hotmail.co.uk,BR6 9AG,7764746853,Orpington,United Kingdom (UK),GBP,607889,2022-01-08 20:47,20.833333,2
+Marilyn,Bean,marilynbean92@yahoo.com,RH13 8PW,7932256335,Horsham,United Kingdom (UK),GBP,607888,2022-01-08 20:45,28.75,1
+Suzanne,Cassels,suziecassels@yahoo.co.uk,KA3 5BA, +44 7578419229,Kilmarnock,United Kingdom (UK),GBP,607887,2022-01-08 20:45,9.166667,1
+Suzanne,Cassels,suziecassels@yahoo.co.uk,KA3 5BA, +44 7578419229,Kilmarnock,United Kingdom (UK),GBP,607887,2022-01-08 20:45,9.166667,1
+Chloe,Scott,chloeyscott@hotmail.co.uk,PR3 5BJ, +44 7495761035,Preston,United Kingdom (UK),GBP,607884,2022-01-08 20:29,10.833333,1
+Paula,West,1977paulawest@gmail.com,MK2 2TZ,07759 165494,Bletchley Milton Keynes,United Kingdom (UK),GBP,607882,2022-01-08 20:26,31.25,1
+Becky,Heppenstall,beckypullen0818@sky.com,PO21 5SN,7730438509,Bognor Regis,United Kingdom (UK),GBP,607881,2022-01-08 20:26,27.916667,1
+Padraig,Finnegan,padraigfinneg@aol.com,OL16 4TR,447907793117,Rochdale,United Kingdom (UK),GBP,607879,2022-01-08 20:14,50,1
+Ben,Baker,p.baker07@sky.com,MK19 6NF,7740465318,Milton Keynes,United Kingdom (UK),GBP,607878,2022-01-08 20:06,30,1
+Tracey,Smith,traceysmith1972@yahoo.com,CF45 3AU,7833127105,Mountain Ash,United Kingdom (UK),GBP,607874,2022-01-08 20:01,18.333333,1
+Tracey,Smith,traceysmith1972@yahoo.com,CF45 3AU,7833127105,Mountain Ash,United Kingdom (UK),GBP,607874,2022-01-08 20:01,10.833333,1
+Sarah,Sloman,sarahsloman30@gmail.com,GL7 4JT,447814851981,Fairford,United Kingdom (UK),GBP,607873,2022-01-08 19:57,9.166667,1
+Jacqueline,Campbell,jackiecampbell7@btinternet.com,G21 2EB,07733 115258,Glasgow,United Kingdom (UK),GBP,607872,2022-01-08 19:47,32.916667,1
+Mandy,MacDonald,mandybloxy@btinternet.com,IV3 8DZ,7884272068,INVERNESS,United Kingdom (UK),GBP,607871,2022-01-08 19:45,16.666667,1
+Fran,Mcauley,frangoold27@aol.com,LE12 8TZ, +44 7787256000,Loughborough,United Kingdom (UK),GBP,607870,2022-01-08 19:45,10.833333,1
+ROWAN,CLARKE,rowansclarke@gmail.com,EX4 8ET,7496186285,Exeter,United Kingdom (UK),GBP,607869,2022-01-08 19:43,20.416667,1
+Alison,Campbell,alisonm164@gmail.com,G51 4JL, +44 7715827426,Glasgow,United Kingdom (UK),GBP,607868,2022-01-08 19:38,23.333333,1
+Wendy,carroll,wendycarroll2@btinternet.com,HR6 0QN, +44 7973508001,Leominster,United Kingdom (UK),GBP,607862,2022-01-08 19:18,26.25,1
+Nicola,Hillyer,Nicolahillyer971@hotmail.com,TN9 2AU,7703003089,Tonbridge,United Kingdom (UK),GBP,607861,2022-01-08 19:17,15,1
+Nicola,Hillyer,Nicolahillyer971@hotmail.com,TN9 2AU,7703003089,Tonbridge,United Kingdom (UK),GBP,607861,2022-01-08 19:17,9375,1
+Nicola,Hillyer,Nicolahillyer971@hotmail.com,TN9 2AU,7703003089,Tonbridge,United Kingdom (UK),GBP,607861,2022-01-08 19:17,11.25,1
+Nicola,Hillyer,Nicolahillyer971@hotmail.com,TN9 2AU,7703003089,Tonbridge,United Kingdom (UK),GBP,607861,2022-01-08 19:17,8.25,1
+Chloe,Parry,chloe.parry98@hotmail.co.uk,IV32 7JY,7365804193,Fochabers,United Kingdom (UK),GBP,607859,2022-01-08 19:10,27.75,1
+Louise,Deadman,louisevioletann@hotmail.co.uk,OX11 7UG,07743 199455,Didcot,United Kingdom (UK),GBP,607858,2022-01-08 19:09,19.166667,1
+Louise,Deadman,louisevioletann@hotmail.co.uk,OX11 7UG,07743 199455,Didcot,United Kingdom (UK),GBP,607858,2022-01-08 19:09,24.166667,1
+Louise,Deadman,louisevioletann@hotmail.co.uk,OX11 7UG,07743 199455,Didcot,United Kingdom (UK),GBP,607858,2022-01-08 19:09,57.5,3
+Louise,Deadman,louisevioletann@hotmail.co.uk,OX11 7UG,07743 199455,Didcot,United Kingdom (UK),GBP,607858,2022-01-08 19:09,31.25,1
+Lisa,Edmonds,Lisaj2305@gmail.com,EN1 3DS, +44 2083422017,Enfield,United Kingdom (UK),GBP,607857,2022-01-08 19:06,24.583333,1
+Clare,Welford,clareandnoah@talktalk.net,DL7 8QF, +44 1609772180,Northallerton,United Kingdom (UK),GBP,607852,2022-01-08 18:36,25,1
+Lydia,Ward,lydiagraceward17@gmail.com,DE15 9EA,7809252656,Burton upon Trent,United Kingdom (UK),GBP,607848,2022-01-08 18:29,33.333333,1
+Rebecca,Brett,rebeccabrett@hotmail.co.uk,SN25 3NG,7807986606,Swindon,United Kingdom (UK),GBP,607847,2022-01-08 18:24,39,2
+Natalie,Collie,nataliecollie123@outlook.com,KY2 6FH,447518412702,Kirkcaldy,United Kingdom (UK),GBP,607843,2022-01-08 17:58,9.166667,1
+Tracey,Harper,tracyann6960@yahoo.co.uk,B14 7QX,7723928847,Birmingham,United Kingdom (UK),GBP,607841,2022-01-08 17:54,21.666667,1
+Sarah,Guest,sarah.jane.guest4@gmail.com,PO16 0TT,7739065657,Fareham,United Kingdom (UK),GBP,607837,2022-01-08 17:29,12.5,1
+Kristine,Lee,specialkgantley@hotmail.co.uk,BA5 2JP, +44 1749677158,Wells,United Kingdom (UK),GBP,607834,2022-01-08 17:11,25.833333,1
+sarah,mitchell,s.mitchell671@btinternet.com,MK18 5AQ, +44 1280860607,Buckingham,United Kingdom (UK),GBP,607833,2022-01-08 17:01,10.416667,1
+Lorraine,Byrne,lorrainebyrne1981@gmail.com,A82 D7P2, +353 868834782,Dublin,Ireland,GBP,607830,2022-01-08 16:36,27.5,1
+Paula,Hind,paula.hind@sky.com,PR8 4NH,7969602663,Southport,United Kingdom (UK),GBP,607829,2022-01-08 16:33,12.5,1
+Paula,Hind,paula.hind@sky.com,PR8 4NH,7969602663,Southport,United Kingdom (UK),GBP,607829,2022-01-08 16:33,10.416667,1
+Paula,Hind,paula.hind@sky.com,PR8 4NH,7969602663,Southport,United Kingdom (UK),GBP,607829,2022-01-08 16:33,13.333333,1
+Susan,Cooper,susu20@btinternet.com,CR0 7QT,2087760397,Croydon,United Kingdom (UK),GBP,607828,2022-01-08 16:26,11.666667,1
+Dean,Connor,mixedbydinodj@gmail.com,SP11 6BF, +44 7511021907,Andover,United Kingdom (UK),GBP,607827,2022-01-08 16:26,32.5,1
+Sarah,Hardcastle,Jameshardcastle007@hotmail.co.uk,HD3 3QG,7808241742,Huddersfield,United Kingdom (UK),GBP,607826,2022-01-08 16:07,25,2
+Billie,Rath,billie_rath@hotmail.co.uk,L9 8HW,7572879779,Liverpool,United Kingdom (UK),GBP,607824,2022-01-08 15:59,21,1
+Billie,Rath,billie_rath@hotmail.co.uk,L9 8HW,7572879779,Liverpool,United Kingdom (UK),GBP,607824,2022-01-08 15:59,26.25,1
+Billie,Rath,billie_rath@hotmail.co.uk,L9 8HW,7572879779,Liverpool,United Kingdom (UK),GBP,607824,2022-01-08 15:59,15,1
+graeme,cowan,graemecowan.dbt@googlemail.com,DG5 4JH, +44 7714524062,Dalbeattie,United Kingdom (UK),GBP,607823,2022-01-08 15:52,9.166667,1
+Frances,Batten,franceswright60@yahoo.co.uk,BS23 2LQ,7929384625,Weston-super-mare,United Kingdom (UK),GBP,607822,2022-01-08 15:48,25.416667,1
+Frances,Batten,franceswright60@yahoo.co.uk,BS23 2LQ,7929384625,Weston-super-mare,United Kingdom (UK),GBP,607822,2022-01-08 15:48,19.583333,1
+allison,griffiths,allison.griffiths@hotmail.co.uk,NP26 4DQ,7814241244,Caldicot,United Kingdom (UK),GBP,607821,2022-01-08 15:39,30.416667,1
+lisa,drewett,louloulettuceleaf@gmail.com,KA6 5AY, +44 7398096019,Ayr,United Kingdom (UK),GBP,607818,2022-01-08 15:13,19.5,1
+Pauline,Murray,pauline.murray9192@gmail.com,G65 9NX,7450042968,Glasgow,United Kingdom (UK),GBP,607817,2022-01-08 14:57,22.5,1
+Alison,Wooldridge,aliwooldridge@outlook.com,ST17 0NZ,7449636151,Stafford,United Kingdom (UK),GBP,607816,2022-01-08 14:51,36.666667,1
+Amy,Rhodes,rhodesamy83@gmail.com,RG41 5GS,447921917721,Wokingham,United Kingdom (UK),GBP,607815,2022-01-08 14:46,49.5,1
+Sarah,Le Sueur,lesueursarah@gmail.com,JE3 5DZ,1534862345,Trinity,United Kingdom (UK),GBP,607814,2022-01-08 14:16,25,1
+Danielle,Boyd,danielleboyd93@hotmail.com,G53 5AR,7538828877,Glasgow,United Kingdom (UK),GBP,607813,2022-01-08 14:07,33375,1
+Kerry,Reibbitt,kerryfaith76@gmail.com,CA2 4AL, +44 7926247026,Carlisle,United Kingdom (UK),GBP,607812,2022-01-08 14:06,13.333333,1
+Kerry,Reibbitt,kerryfaith76@gmail.com,CA2 4AL, +44 7926247026,Carlisle,United Kingdom (UK),GBP,607812,2022-01-08 14:06,9.166667,1
+Georgina,Fairley,GEORGINAMF85@GMAIL.COM,ML5 1ES, +44 7787796497,Coatbridge,United Kingdom (UK),GBP,607811,2022-01-08 14:03,19.166667,1
+Sally,Waddington,sallyrae1974@gmail.com,BB18 5BG,01282 544459,Barnoldswick,United Kingdom (UK),GBP,607809,2022-01-08 14:01,17.083333,1
+Sally,Waddington,sallyrae1974@gmail.com,BB18 5BG,01282 544459,Barnoldswick,United Kingdom (UK),GBP,607809,2022-01-08 14:01,20,1
+Sally,Waddington,sallyrae1974@gmail.com,BB18 5BG,01282 544459,Barnoldswick,United Kingdom (UK),GBP,607809,2022-01-08 14:01,50,5
+Andrea,Fensome,andrea.fensome@sky.com,SN13 9FP,07900 982052,Corsham,United Kingdom (UK),GBP,607806,2022-01-08 13:56,10.416667,1
+julia,pritchard,jultike07@gmail.com,CF39 9TW,07855 527280,Porth,United Kingdom (UK),GBP,607804,2022-01-08 13:50,20.416667,1
+Rebecca,Oakes,rebeccaoakes77@hotmail.com,OL6 9EG,7784193546,Ashton-under-lyne,United Kingdom (UK),GBP,607803,2022-01-08 13:49,41.666667,1
+Wesley,Fernandez,wesfernandez@yahoo.co.uk,ME15 9AD, +44 7818007033,Maidstone,United Kingdom (UK),GBP,607802,2022-01-08 13:16,15,1
+Helen,Moore,hr.moore@hotmail.co.uk,BB8 9EF, +44 7455901112,Colne,United Kingdom (UK),GBP,607801,2022-01-08 13:11,24.583333,1
+Richard,Philpott,thephilpotts@live.co.uk,CF40 2LP,7879734224,Tonypandy,United Kingdom (UK),GBP,607800,2022-01-08 13:09,24,1
+lorraine,james,Lorrainekj@googlemail.com,EH41 4NU, +44 1620829653,Haddington,United Kingdom (UK),GBP,607798,2022-01-08 12:52,9.166667,1
+lorraine,james,Lorrainekj@googlemail.com,EH41 4NU, +44 1620829653,Haddington,United Kingdom (UK),GBP,607798,2022-01-08 12:52,7.5,1
+lorraine,james,Lorrainekj@googlemail.com,EH41 4NU, +44 1620829653,Haddington,United Kingdom (UK),GBP,607798,2022-01-08 12:52,10.416667,1
+Nicola,Duhaney,duhaneyfamily@sky.com,DE23 6GT,7926150222,Derby,United Kingdom (UK),GBP,607796,2022-01-08 12:43,31.25,1
+Simon,Neal,simi5021@gmail.com,NN6 9WF,447557877827,Northampton,United Kingdom (UK),GBP,607795,2022-01-08 12:41,50.25,1
+Diane,Ford,diane.ford219@btinternet.com,DN21 3NF,7939480781,Gainsborough,United Kingdom (UK),GBP,607794,2022-01-08 12:40,17.5,1
+Vicki,Brennan,andyvicki@hotmail.com,LE16 9HN,7834232527,Market Harborough,United Kingdom (UK),GBP,607791,2022-01-08 12:28,11.25,1
+Mandy,Adkins,mandyadkins@hotmail.co.uk,B26 2DB, +44 7720438396,Birmingham,United Kingdom (UK),GBP,607790,2022-01-08 12:07,22.5,1
+Robert,Gourlay,anniedaviemac@gmail.com,G15 7RE,7488388213,Glasgow,United Kingdom (UK),GBP,607789,2022-01-08 12:07,30.416667,1
+Hannah,Exon,hannah.exon@hotmail.co.uk,L20 6NW,7456075777,Bootle,United Kingdom (UK),GBP,607787,2022-01-08 12:02,27.5,1
+Hannah,Exon,hannah.exon@hotmail.co.uk,L20 6NW,7456075777,Bootle,United Kingdom (UK),GBP,607787,2022-01-08 12:02,24.166667,1
+Tracy,Jeffery,tracy_jeffery@hotmail.com,PO10 8TH,7768033937,Emsworth,United Kingdom (UK),GBP,607783,2022-01-08 11:56,24375,1
+Tracy,Jeffery,tracy_jeffery@hotmail.com,PO10 8TH,7768033937,Emsworth,United Kingdom (UK),GBP,607783,2022-01-08 11:56,24375,1
+Kim,Camfield,kim_camfield@yahoo.com,PE28 3PH,7929466514,Huntingdon,United Kingdom (UK),GBP,607782,2022-01-08 11:44,9.166667,1
+Beth,Jones,bethjones414@yahoo.co.uk,CF23 6NH,7710460299,Cardiff,United Kingdom (UK),GBP,607781,2022-01-08 11:41,10.416667,1
+Beth,Jones,bethjones414@yahoo.co.uk,CF23 6NH,7710460299,Cardiff,United Kingdom (UK),GBP,607781,2022-01-08 11:41,18.333333,2
+Amy,Bates,aims90@btinternet.com,LE6 0HA, +44 1530243509,Leicester,United Kingdom (UK),GBP,607780,2022-01-08 11:27,16.666667,1
+Kelly,Storey,kellystorey78@yahoo.com,CR5 1QN,442086604051,Coulsdon,United Kingdom (UK),GBP,607779,2022-01-08 11:11,17.5,1
+Kelly,Storey,kellystorey78@yahoo.com,CR5 1QN,442086604051,Coulsdon,United Kingdom (UK),GBP,607779,2022-01-08 11:11,12.5,1
+Allison,Halligan,allisonhalligan@icloud.com,NE31 1RB,7718913446,Hebburn,United Kingdom (UK),GBP,607778,2022-01-08 11:06,28.75,1
+Kelley,Walker,kfrancesw71@gmail.com,DA16 2QZ,7940767312,Welling,United Kingdom (UK),GBP,607773,2022-01-08 10:36,20.25,1
+Kelly,Bennett,kelly-louise27@hotmail.co.uk,WD25 0NE, +44 7946337310,Watford,United Kingdom (UK),GBP,607772,2022-01-08 10:35,29.166667,2
+Kelly,Bennett,kelly-louise27@hotmail.co.uk,WD25 0NE, +44 7946337310,Watford,United Kingdom (UK),GBP,607772,2022-01-08 10:35,29.166667,2
+Kelly,Bennett,kelly-louise27@hotmail.co.uk,WD25 0NE, +44 7946337310,Watford,United Kingdom (UK),GBP,607772,2022-01-08 10:35,14.583333,1
+Margaret,Lauder,glauder@sky.com,G52 3LW,7886201289,Glasgow,United Kingdom (UK),GBP,607771,2022-01-08 10:30,20.833333,1
+Margaret,Lauder,glauder@sky.com,G52 3LW,7886201289,Glasgow,United Kingdom (UK),GBP,607771,2022-01-08 10:30,35,1
+Carol,Starkey,cstarkey@hotmail.co.uk,PO33 1DZ,7568483389,Ryde,United Kingdom (UK),GBP,607768,2022-01-08 10:18,18.333333,1
+Tanya,Clayton,tanyaclayton@hotmail.co.uk,IP33 2LG, +44 7766117960,Bury St. Edmunds,United Kingdom (UK),GBP,607767,2022-01-08 10:16,30,1
+Kelley,Walker,kfrancesw71@gmail.com,DA16 2QZ, +44 7940767312,Welling,United Kingdom (UK),GBP,607766,2022-01-08 10:15,18,1
+Laura,Buckingham,laurabuckingham2@gmail.com,SS17 8DQ,7950544320,Stanford-le-hope,United Kingdom (UK),GBP,607765,2022-01-08 10:13,12,1
+adam,goodwell,gizellaroberts@hotmail.co.uk,KT22 9UG,7964030489,Fetcham,United Kingdom (UK),GBP,607763,2022-01-08 09:58,20.833333,1
+philippa,harrison,philippaharrison6@hotmail.co.uk,YO26 7LU, +44 7881943313,York,United Kingdom (UK),GBP,607762,2022-01-08 09:46,18.75,1
+Hayley,Moss,hayley.gibson1982@gmail.com,EH221SW,7368319893,Dalkeith,United Kingdom (UK),GBP,607761,2022-01-08 09:35,9.166667,1
+Kate,Pease,kateport@hotmail.com,CM9 8NY,447906894799,Maldon,United Kingdom (UK),GBP,607760,2022-01-08 09:19,27.5,1
+Kate,Pease,kateport@hotmail.com,CM9 8NY,447906894799,Maldon,United Kingdom (UK),GBP,607760,2022-01-08 09:19,9.166667,1
+Kate,Rice,katee_rice6@hotmail.com,PE4 6QR, +44 7590071759,Peterborough,United Kingdom (UK),GBP,607759,2022-01-08 09:11,14.166667,1
+Michael,Keenan,mike31_y2k@hotmail.com,CF63 1RB,7891641481,Barry,United Kingdom (UK),GBP,607758,2022-01-08 09:09,22.5,1
+Sally,Craig,sally-c@outlook.com,BT35 0LE,07846 910979,Newry,United Kingdom (UK),GBP,607757,2022-01-08 08:50,22.083333,1
+Lynn,Spaughton,lynnspaughton@yahoo.co.uk,MK13 7ND, +44 1908320837,Milton Keynes,United Kingdom (UK),GBP,607756,2022-01-08 08:48,18.958333,1
+Lynn,Spaughton,lynnspaughton@yahoo.co.uk,MK13 7ND, +44 1908320837,Milton Keynes,United Kingdom (UK),GBP,607756,2022-01-08 08:48,16.666667,1
+Ella,Dodgson,e-1-1-a@hotmail.co.uk,FY6 7QB,7964185832,Poulton-le-fylde,United Kingdom (UK),GBP,607755,2022-01-08 08:37,22.916667,1
+Garry,Mitchell,garrynatzac@gmail.com,G69 0QQ, +44 7944457531,Glasgow,United Kingdom (UK),GBP,607753,2022-01-08 08:24,42.083333,1
+Matthew,Trenaman,trendy-102@hotmail.com,EX17 2AX, +44 7792522038,Crediton,United Kingdom (UK),GBP,607752,2022-01-08 08:24,29.166667,1
+Jasmine,Evans,jazz212314@gmail.com,Ex2 8rs,7548375888,Exeter,United Kingdom (UK),GBP,607751,2022-01-08 07:51,9.166667,1
+Louise,Deacon,deaconl@yahoo.com,WF2 8BY,7718180609,Wakefield,United Kingdom (UK),GBP,607749,2022-01-08 07:20,15,1
+lynne,felgate,lynne.felgate1@hotmail.co.uk,PA19 1BF, +44 7870661470,Gourock,United Kingdom (UK),GBP,607744,2022-01-08 00:27,23.75,1
+Ami,Grosvenor,eviegrosvenor1993@hotmail.com,B30 3QT, +61 433877165,Birmingham,United Kingdom (UK),GBP,607741,2022-01-07 23:32,14.166667,1
+Samantha J,Hellyar,samanthahellyar@hotmail.co.uk,SO50 8QB, +44 7919097857,Eastleigh,United Kingdom (UK),GBP,607739,2022-01-07 23:02,9.166667,1
+Samantha J,Hellyar,samanthahellyar@hotmail.co.uk,SO50 8QB, +44 7919097857,Eastleigh,United Kingdom (UK),GBP,607739,2022-01-07 23:02,10,1
+Alice,Burke,alice.burke@yahoo.com,ST10 2JQ,7925053285,Stoke-on-trent,United Kingdom (UK),GBP,607737,2022-01-07 22:38,19.583333,1
+Julie,Willox,juliewillox@aol.co.uk,DD3 0SU,7368846348,Dundee,United Kingdom (UK),GBP,607736,2022-01-07 22:14,23.333333,1
+Jackie,Smith,jackiemsmith79@yahoo.com,HU8 0LG,7875378597,Hull,United Kingdom (UK),GBP,607735,2022-01-07 22:01,20.833333,1
+Pauline,Rudland,tigeress-100@hotmail.com,HU6 7UN,441482807070,Hull,United Kingdom (UK),GBP,607730,2022-01-07 21:24,50,1
+Clare,Meekins,claremeekins@gmail.com,TN17 3PA,447901970608,Cranbrook,United Kingdom (UK),GBP,607729,2022-01-07 21:18,8.25,1
+janet e,newton-smith,Janetnewtonsmith@googlemail.com,B45 0EH,7986280401,Birmingham,United Kingdom (UK),GBP,607727,2022-01-07 21:05,25,1
+Courtney,Meakin,courtney.meakin@hotmail.co.uk,NR31 8ES,7985755620,Great Yarmouth,United Kingdom (UK),GBP,607726,2022-01-07 21:05,21.75,1
+Amanda,Bull,amandabull133@gmail.com,WS4 1BD,07810 651773,Walsall,United Kingdom (UK),GBP,607723,2022-01-07 20:46,8.25,1
+Lynne,Worthington,lynne.worthington@yahoo.co.uk,L21 9NU, +44 1512930286,Liverpool,United Kingdom (UK),GBP,607722,2022-01-07 20:31,22.916667,1
+Rose,Snowdon,rosieandpaul@talktalk.net,DH4 4HT, +44 7799647962,Houghton Le Spring,United Kingdom (UK),GBP,607720,2022-01-07 20:29,11625,1
+Zoe,Sutherland,zsuth80@googlemail.com,GL1 5TY, +44 1452539903,Gloucester,United Kingdom (UK),GBP,607719,2022-01-07 20:23,12.5,1
+RACHEL,HORTON,bassinderr@aol.com,DE12 8DR, +44 7771556678,Swadlincote,United Kingdom (UK),GBP,607718,2022-01-07 20:16,25.416667,1
+Rebecca,Stevens,rhhs01@gmail.com,AL5 5ST, +44 7906527612,Harpenden,United Kingdom (UK),GBP,607717,2022-01-07 20:12,9.166667,1
+Karen,Mitchell,karenannemitchell70@gmail.com,PA17 5AL, +44 7507665559,Skelmorlie,United Kingdom (UK),GBP,607716,2022-01-07 20:12,35.833333,1
+Hannah,Bartle,hann94@live.co.uk,CF32 9NA,7415608786,Bridgend,United Kingdom (UK),GBP,607715,2022-01-07 20:09,9,1
+Charlie,Dowd,charlie.dowd94@yahoo.com,NR15 2ZT,7960014978,Norwich,United Kingdom (UK),GBP,607714,2022-01-07 20:08,26.25,1
+JOANNE,MONTEITH,jo_monteith@hotmail.co.uk,DN38 6DY,7707063583,New Barnetby,United Kingdom (UK),GBP,607713,2022-01-07 20:02,7.5,1
+JOANNE,MONTEITH,jo_monteith@hotmail.co.uk,DN38 6DY,7707063583,New Barnetby,United Kingdom (UK),GBP,607713,2022-01-07 20:02,7.5,1
+JOANNE,MONTEITH,jo_monteith@hotmail.co.uk,DN38 6DY,7707063583,New Barnetby,United Kingdom (UK),GBP,607713,2022-01-07 20:02,8.333333,1
+Lara,Kennedy,laralkennedy@icloud.com,S21 4FB,7531730303,Sheffield,United Kingdom (UK),GBP,607712,2022-01-07 19:58,14.166667,1
+Samantha,Richardson,samrichardson49@hotmail.com,EX5 3AA,7944844658,Exeter,United Kingdom (UK),GBP,607711,2022-01-07 19:45,10.416667,1
+Emma,Gray,emmapgray@gmail.com,BT93 5DE, +44 7718327438,Enniskillen,United Kingdom (UK),GBP,607710,2022-01-07 19:41,29.166667,1
+Rebecca,Nijs,beckysnijs@gmail.com,L31 8EQ,7766131904,Liverpool,United Kingdom (UK),GBP,607708,2022-01-07 19:32,26.666667,1
+Elizabeth,Lynch,lizgrantlynch@yahoo.co.uk,G71 5DF,7584098730,Viewpark Uddingston Glasgow,United Kingdom (UK),GBP,607706,2022-01-07 19:29,41.666667,1
+Rowena,Jones,r.jones792@btinternet.com,CB6 3JP, +44 1353649548,Ely,United Kingdom (UK),GBP,607705,2022-01-07 19:18,10,1
+Beverley,Yates,beverleyscott.bs36@gmail.com,CV47 0LD,07952 045505,Southam,United Kingdom (UK),GBP,607704,2022-01-07 19:14,15,1
+Lucy,Burrells,lucy.burrells@hotmail.com,DT3 4BL, +44 7392060968,Weymouth,United Kingdom (UK),GBP,607700,2022-01-07 18:03,32.5,1
+Karen,Morley,kmorley1409@gmail.com,G72 7GS,7375859964,Glasgow,United Kingdom (UK),GBP,607698,2022-01-07 17:32,16875,1
+ian,brickman,kbrickman4@gmail.com,YO13 9DW, +44 1723859389,Scarborough,United Kingdom (UK),GBP,607694,2022-01-07 17:23,23.333333,1
+ian,brickman,kbrickman4@gmail.com,YO13 9DW, +44 1723859389,Scarborough,United Kingdom (UK),GBP,607694,2022-01-07 17:23,23.333333,1
+Michael,Evans,milesfinagan@hotmail.co.uk,DE55 7HD,7779073544,Alfreton,United Kingdom (UK),GBP,607693,2022-01-07 17:18,9.166667,1
+Gill,Buckley,gillbucks1@gmail.com,WA15 6AH,7816851719,Altrincham,United Kingdom (UK),GBP,607692,2022-01-07 17:13,18.75,1
+Gill,Buckley,gillbucks1@gmail.com,WA15 6AH,7816851719,Altrincham,United Kingdom (UK),GBP,607692,2022-01-07 17:13,18.75,1
+Gill,Buckley,gillbucks1@gmail.com,WA15 6AH,7816851719,Altrincham,United Kingdom (UK),GBP,607692,2022-01-07 17:13,18.75,1
+Gill,Buckley,gillbucks1@gmail.com,WA15 6AH,7816851719,Altrincham,United Kingdom (UK),GBP,607692,2022-01-07 17:13,18.75,1
+Ann,McKenzie,annmariemckenzie@hotmail.com,SN13 0DW,7716953412,Corsham,United Kingdom (UK),GBP,607690,2022-01-07 16:39,10.416667,1
+rikki,Nethercott,rikki61@icloud.com,CF62 7HQ,7488227760,Barry,United Kingdom (UK),GBP,607688,2022-01-07 16:20,17.916667,1
+Lesley,Wilson,lesleywilson739@gmail.com,B26 1QL,7587230044,Birmingham,United Kingdom (UK),GBP,607687,2022-01-07 16:19,23.333333,1
+Tracey,Smith,traceysmith1972@yahoo.com,CF45 3AU,7833127105,Mountain Ash,United Kingdom (UK),GBP,607686,2022-01-07 15:58,43.333333,1
+Annemarie,O Donoghue,liffey87@gmail.com,K67 C2N0,353879251186,Swords,Ireland,GBP,607685,2022-01-07 15:54,25,1
+Annemarie,O Donoghue,liffey87@gmail.com,K67 C2N0,353879251186,Swords,Ireland,GBP,607685,2022-01-07 15:54,18.333333,1
+Annemarie,O Donoghue,liffey87@gmail.com,K67 C2N0,353879251186,Swords,Ireland,GBP,607685,2022-01-07 15:54,18.333333,1
+Natalie,Field,field.natalie@sky.com,DY6 7HT,7734862304,Wall Heath,United Kingdom (UK),GBP,607684,2022-01-07 15:51,12.5,1
+Lisa,Butcher,Lbutcher.butcher135@gmail.com,OX49 5QX,7742008919,Watlington,United Kingdom (UK),GBP,607682,2022-01-07 15:40,14.166667,1
+Lisa,Butcher,Lbutcher.butcher135@gmail.com,OX49 5QX,7742008919,Watlington,United Kingdom (UK),GBP,607682,2022-01-07 15:40,15,1
+Samantha,Gardiner,samantha.louise.courtney@gmail.com,tr13 8jx,,helston,United Kingdom (UK),GBP,607678,2022-01-07 15:24,10,1
+Marie,Whitehouse,gingersnapz@hotmail.co.uk,HU9 1LP, +44 7962034803,Hull,United Kingdom (UK),GBP,607677,2022-01-07 15:17,22.5,1
+Lisa,Bishop,lisabishop1961@outlook.com,SG13 8HP,07377 555402,Hertford,United Kingdom (UK),GBP,607676,2022-01-07 15:13,23.333333,1
+Laura,Phee,laurawrobbo@aol.com,ML6 9XA,7874090037,Airdrie,United Kingdom (UK),GBP,607675,2022-01-07 15:12,40,1
+Cecilia,O'Doherty,cgodoherty@gmail.com,SK11 6LB,7850551088,Macclesfield,United Kingdom (UK),GBP,607674,2022-01-07 15:03,12.5,1
+Tracey,Robinson,tracey92@hotmail.co.uk,HU12 0PA, +44 7901788148,Hull,United Kingdom (UK),GBP,607672,2022-01-07 14:56,0,1
+Lisa,Bishop,lisabishop1961@outlook.con,SG13 8HP,07377 555402,Hertford,United Kingdom (UK),GBP,607670,2022-01-07 14:43,23.333333,1
+Belinda,Raven,belinda.raven@btinternet.com,IP26 5LS,7713435413,Thetford,United Kingdom (UK),GBP,607669,2022-01-07 14:39,32.083333,1
+Sian,Roberts,sian_robz@hotmail.co.uk,LL29 8PG,447738055133,Colwyn Bay,United Kingdom (UK),GBP,607668,2022-01-07 14:37,15,1
+Chantel,Horsbrough,chantel.horsbrough@gmail.com,LS18 5QR,7793274451,Leeds,United Kingdom (UK),GBP,607667,2022-01-07 14:19,8.25,1
+Chantel,Horsbrough,chantel.horsbrough@gmail.com,LS18 5QR,7793274451,Leeds,United Kingdom (UK),GBP,607667,2022-01-07 14:19,25.5,1
+Megan,Crawford,meganncrawfordd88@hotmail.com,G31 4XU,7468567962,Glasgow,United Kingdom (UK),GBP,607666,2022-01-07 14:16,36.666667,1
+Carol,French,carol.french61@hotmail.com,ME5 8PJ,7771967798,Chatham,United Kingdom (UK),GBP,607665,2022-01-07 14:07,30,1
+Andrea,Carter,andrea.carter1107@icloud.com,NR20 3PN,7818650552,"Mattishall, Dereham",United Kingdom (UK),GBP,607664,2022-01-07 13:38,25.833333,1
+Sarah,Larder,sarahlarder77@gmail.com,RH12 1UL,7590832434,Horsham,United Kingdom (UK),GBP,607663,2022-01-07 13:36,0,1
+Jessica,Whitton,jessicajane.management@gmail.com,W3 6NY,7854366793,London,United Kingdom (UK),GBP,607661,2022-01-07 13:28,6,1
+Susan,Murray,joelsinspain@hotmail.com,WF4 2EP,,Wakefield,United Kingdom (UK),GBP,607660,2022-01-07 13:24,0,1
+Helen,Payne,helen_485@hotmail.co.uk,MK43 0FE,7718216596,Bedford,United Kingdom (UK),GBP,607658,2022-01-07 12:38,30,1
+Miss Tina,Leeson,tango.lima6@virginmedia.com,S18 2LA,7507783366,Dronfield,United Kingdom (UK),GBP,607656,2022-01-07 12:16,1.666667,1
+Emma,Roberts,emmagooner38@gmail.com,RM12 6TJ,7808854677,Hornchurch,United Kingdom (UK),GBP,607655,2022-01-07 12:08,0,1
+alicia,hathaway,aliciaxjeann95@yahoo.com,2346,,Middleboro,United States (US),GBP,607654,2022-01-07 11:56,5,1
+Millie,Amos,millieeamos99@hotmail.co.uk,CH66 4QJ,7411739962,Ellesmere Port,United Kingdom (UK),GBP,607653,2022-01-07 11:44,11.25,1
+Victoria,Dunbar,biggaffa1@gmail.com,YO61 3QY,7586356400,YORK,United Kingdom (UK),GBP,607652,2022-01-07 11:35,9.166667,1
+Anne Marie,Mason,ammason-d@hotmail.co.uk,SK15 1FA,7595516037,Stalybridge,United Kingdom (UK),GBP,607651,2022-01-07 11:12,41.666667,1
+Catherine,OSullivan,catherineos100@hotmail.com,SL5 8LL,7564444353,Ascot,United Kingdom (UK),GBP,607650,2022-01-07 10:36,0,2
+mrs,Helen Powell,powellhe@googlemail.com,NR8 6GH, +44 7969085531,Norwich,United Kingdom (UK),GBP,607649,2022-01-07 10:31,37.5,2
+Bethany,Mcdonald,bethany_mcdonaldx@hotmail.com,L21 7NQ,7401886116,Liverpool,United Kingdom (UK),GBP,607645,2022-01-07 10:27,0,1
+Siobhan,Tee,siobhan.logie@hotmail.co.uk,CW1 3TU,7881229877,Crewe,United Kingdom (UK),GBP,607644,2022-01-07 10:25,30,1
+Catherine,Vital Sparks Nursery,catmaclean85@yahoo.com,AB42 3GL,07756 340353,Peterhead,United Kingdom (UK),GBP,607643,2022-01-07 10:19,22.5,1
+Suzanne,hill,Suehll40@googlemail.com0,CH8 9RB,07504 287805,Holywell,United Kingdom (UK),GBP,607641,2022-01-07 10:03,20.833333,1
+Suzanne,hill,Suehll40@googlemail.com0,CH8 9RB,07504 287805,Holywell,United Kingdom (UK),GBP,607641,2022-01-07 10:03,33.333333,1
+Bev,Carlyle,bevcarlyle@yahoo.com,BT26 6RJ, +44 7506295465,Hillsborough,United Kingdom (UK),GBP,607640,2022-01-07 10:01,29.166667,1
+Zoe,Dickie,zoe_dickie@hotmail.co.uk,G66 3SP,7391846077,Glasgow,United Kingdom (UK),GBP,607639,2022-01-07 10:00,16.25,1
+Lisa,Back,lisaback88@hotmail.com,SE26 4EX,7506676167,London,United Kingdom (UK),GBP,607638,2022-01-07 09:54,20.833333,1
+Angela ,Martin,angela_martin@hotmail.co.uk,Ph15 2da,447565814949,Aberfeldy ,United Kingdom (UK),GBP,607637,2022-01-07 09:54,11.25,1
+Reynolds,Tracey,tr319@hotmail.com,DN36 4XP,7795965057,Grimsby,United Kingdom (UK),GBP,607636,2022-01-07 09:42,9.166667,1
+Reynolds,Tracey,tr319@hotmail.com,DN36 4XP,7795965057,Grimsby,United Kingdom (UK),GBP,607636,2022-01-07 09:42,16.666667,1
+Reynolds,Tracey,tr319@hotmail.com,DN36 4XP,7795965057,Grimsby,United Kingdom (UK),GBP,607636,2022-01-07 09:42,13.333333,1
+Reynolds,Tracey,tr319@hotmail.com,DN36 4XP,7795965057,Grimsby,United Kingdom (UK),GBP,607636,2022-01-07 09:42,7.5,1
+Reynolds,Tracey,tr319@hotmail.com,DN36 4XP,7795965057,Grimsby,United Kingdom (UK),GBP,607636,2022-01-07 09:42,12.5,1
+Reynolds,Tracey,tr319@hotmail.com,DN36 4XP,7795965057,Grimsby,United Kingdom (UK),GBP,607636,2022-01-07 09:42,9.166667,1
+Morgan,Macleod,morganimogen@outlook.com,NN18 0BX,07368 694581,Corby,United Kingdom (UK),GBP,607635,2022-01-07 09:40,29.166667,1
+Thomas,Seebold,tom.seebold@live.co.uk,SW18 1GU,7587709149,London,United Kingdom (UK),GBP,607633,2022-01-07 09:21,32.916667,1
+Abbi,Oliver,abbi1688@gmail.com,OX26 2LF,7775898117,Bicester,United Kingdom (UK),GBP,607632,2022-01-07 09:21,0,1
+David,Chrisp,DavidJChrisp@gmail.com,NE40 3SX, +44 7719469893,Ryton,United Kingdom (UK),GBP,607629,2022-01-07 08:44,22.5,1
+Sarah,Loden,sarahloden@mac.com,IP22 2NX,07484 282896,Diss,United Kingdom (UK),GBP,607628,2022-01-07 08:16,19.166667,1
+James,Kennedy,j101kennedy@yahoo.co.uk,HX6 4JS,7977208442,Sowerby Bridge,United Kingdom (UK),GBP,607627,2022-01-07 08:05,26.666667,1
+Tara,Morrison,bizzywizzy04@yahoo.co.uk,LN12 2LW,07450 337351,Mablethorpe,United Kingdom (UK),GBP,607625,2022-01-07 07:23,18.75,1
+Kerry,Scott,kscott31486@gmail.com,NE33 4LE,7936389533,South Shields,United Kingdom (UK),GBP,607624,2022-01-07 07:08,22.916667,1
+mandy,masson,mmasson121@gmail.com,KY8 2BN, +44 7955020261,Leven,United Kingdom (UK),GBP,607623,2022-01-07 06:56,15.416667,1
+Sarah,Spinks,sarahjspinks30@gmail.com,GU12 4BB,7956563129,ALDERSHOT,United Kingdom (UK),GBP,607620,2022-01-07 00:55,20.833333,1
+Aisha,Regan,ashvic1uk@aol.com,B9 5TR,7557902357,Birmingham,United Kingdom (UK),GBP,607618,2022-01-07 00:51,31.666667,1
+Stuart,Pocklington,stuartpocklington@yahoo.com,DL14 6HF,7516170230,Bishop Auckland,United Kingdom (UK),GBP,607617,2022-01-07 00:46,31.25,1
+Lorraine,Brown,laneybroon@hotmail.com,PR4 6TG,7843237171,Preston,United Kingdom (UK),GBP,607612,2022-01-06 23:11,39.166667,1
+Ashleigh,Reid,Ashleighreid1994@gmail.com,PA2 9HW,7850988498,Paisley,United Kingdom (UK),GBP,607605,2022-01-06 22:57,12,1
+rosalie,charrington,racharrington@hotmail.com,UB2 5QX,020 8574 4059,southall,United Kingdom (UK),GBP,607604,2022-01-06 22:43,16.25,1
+Patrina,Mc Mullan,patrina232@aol.com,BT53 7LA, +44 7801988238,Ballymoney,United Kingdom (UK),GBP,607603,2022-01-06 22:32,41.666667,1
+Patrina,Mc Mullan,patrina232@aol.com,BT53 7LA, +44 7801988238,Ballymoney,United Kingdom (UK),GBP,607603,2022-01-06 22:32,33.333333,1
+Carol,Seabrook,carol_seabrook@hotmail.com,S6 4JR,7788728187,Sheffield,United Kingdom (UK),GBP,607600,2022-01-06 22:28,8.25,1
+Laura,Robinson,lauratarn@hotmail.co.uk,DL15 9GH,7890964520,Crook,United Kingdom (UK),GBP,607599,2022-01-06 22:19,19.5,2
+Laura,Robinson,lauratarn@hotmail.co.uk,DL15 9GH,7890964520,Crook,United Kingdom (UK),GBP,607599,2022-01-06 22:19,9.75,1
+Chris,Cork,cork8@hotmail.com,ME8 6AY,7813792040,Gillingham,United Kingdom (UK),GBP,607595,2022-01-06 21:56,34.166667,1
+Emily,Loftus,leicsbird@hotmail.com,LE4 8LQ,447791767910,Leicester,United Kingdom (UK),GBP,607594,2022-01-06 21:48,9.166667,1
+anna,carter,annacarter85@hotmail.com,DL8 1UJ, +44 1677423424,Bedale,United Kingdom (UK),GBP,607593,2022-01-06 21:47,23.75,1
+Karen,Kilgallon,karenfk28@gmail.com,EH51 0BW,7930712401,Bo'ness,United Kingdom (UK),GBP,607592,2022-01-06 21:42,33.333333,1
+Layla,Collins,layla.collins111@gmail.com,UB8 1NW,7572541936,Uxbridge,United Kingdom (UK),GBP,607591,2022-01-06 21:36,19.166667,1
+Amanda,Shenton,ashenton@ntlworld.com,ST8 7HL,7778482557,Stoke-on-trent,United Kingdom (UK),GBP,607589,2022-01-06 21:12,35.833333,1
+Dawn,Mckie,dawn@tiersandcelebrations.co.uk,HU4 6EW,01482 507622,Hull,United Kingdom (UK),GBP,607588,2022-01-06 21:09,20.833333,1
+sam,maywhort,samanthamaywhort@live.co.uk,NG10 2BA, +44 7743351462,Nottingham,United Kingdom (UK),GBP,607582,2022-01-06 20:41,38.25,1
+Gemma,Burton,gemmaeveson@hotmail.com,NN15 5NA,7738980479,Kettering,United Kingdom (UK),GBP,607580,2022-01-06 20:35,14.583333,1
+Suzie,Levett,suzieandadrian@gmail.com,IP45SU,7732313442,Ipswich,United Kingdom (UK),GBP,607579,2022-01-06 20:30,13.333333,1
+Suzie,Levett,suzieandadrian@gmail.com,IP45SU,7732313442,Ipswich,United Kingdom (UK),GBP,607579,2022-01-06 20:30,10.416667,1
+Gilder,Emma,emmarowley1980@gmail.com,SS5 4UL,7872017928,Hockley,United Kingdom (UK),GBP,607575,2022-01-06 20:28,22.5,1
+Corinne,Bancroft,corinne@mcn.agency,BB8 8LA,7930658085,Lancashire,United Kingdom (UK),GBP,607574,2022-01-06 20:23,14.166667,1
+Sheena,Connolly,sheenadaly@yahoo.co.uk,UB9 6QB,7854540689,Uxbridge,United Kingdom (UK),GBP,607573,2022-01-06 20:23,28.333333,1
+Nicola,Gregory,nicolagregory236@gmail.com,TS25 2NP,7961769878,Hartlepool,United Kingdom (UK),GBP,607569,2022-01-06 20:00,21.666667,2
+Nicola,Gregory,nicolagregory236@gmail.com,TS25 2NP,7961769878,Hartlepool,United Kingdom (UK),GBP,607569,2022-01-06 20:00,9.166667,1
+Angela,Morris,ange.black@hollytree05.net,OX15 4PX,1295722146,Banbury,United Kingdom (UK),GBP,607567,2022-01-06 19:58,16875,1
+Hannah,Shave,hannaevolution344@gmail.com,SO16 9BT,7557960839,Southampton,United Kingdom (UK),GBP,607566,2022-01-06 19:57,23.333333,1
+Laura,Ruickbie,lauraruickbie@hotmail.co.uk,IV2 7NE,07890 649735,Inverness,United Kingdom (UK),GBP,607564,2022-01-06 19:52,24.583333,1
+Gemma,France,slosher4@hotmail.co.uk,SR5 5QF,1915487904,Sunderland,United Kingdom (UK),GBP,607563,2022-01-06 19:52,10.833333,1
+Hughes,Emma,emmaforster89@yahoo.co.uk,NE25 0ER,7749636759,Whitley Bay,United Kingdom (UK),GBP,607562,2022-01-06 19:49,39.166667,1
+Janine,Robson,janinerobson2017@gmail.com,NE42 6EZ,7850293324,Prudhoe,United Kingdom (UK),GBP,607561,2022-01-06 19:48,21.75,1
+Janine,Robson,janinerobson2017@gmail.com,NE42 6EZ,7850293324,Prudhoe,United Kingdom (UK),GBP,607561,2022-01-06 19:48,21.75,1
+Janine,Robson,janinerobson2017@gmail.com,NE42 6EZ,7850293324,Prudhoe,United Kingdom (UK),GBP,607561,2022-01-06 19:48,21.75,1
+Janine,Robson,janinerobson2017@gmail.com,NE42 6EZ,7850293324,Prudhoe,United Kingdom (UK),GBP,607561,2022-01-06 19:48,21.75,1
+Alisha,Allen,lishaallen@hotmail.com,TN38 8DX,7586031004,St. Leonards-on-sea,United Kingdom (UK),GBP,607560,2022-01-06 19:46,62.25,1
+Denise,Bull,chat2den@hotmail.co.uk,NN5 6YT,7921857995,Northampton,United Kingdom (UK),GBP,607559,2022-01-06 19:35,14.166667,1
+Lauren ,Snell ,lauren.snell91@hotmail.co.uk,NG4 3FX,1159525001,Nottingham,United Kingdom (UK),GBP,607557,2022-01-06 19:19,38.75,1
+Lauren ,Snell ,lauren.snell91@hotmail.co.uk,NG4 3FX,1159525001,Nottingham,United Kingdom (UK),GBP,607557,2022-01-06 19:19,22.5,1
+Samina,Anjum,sysharif@yahoo.co.uk,BD7 4QR,7821597716,Bradford,United Kingdom (UK),GBP,607555,2022-01-06 19:12,22.5,1
+chloe,harman,chloeharman7@hotmail.com,SS0 7DZ, +44 1702315928,Westcliff-on-sea,United Kingdom (UK),GBP,607554,2022-01-06 19:10,9.166667,1
+Charley,Owen,charley.owen@aol.co.uk,RH11 0EA,7854395383,Crawley,United Kingdom (UK),GBP,607551,2022-01-06 18:55,11.25,1
+Nina,Dickson,ninaceridickson@gmail.com,LS7 1DL,7791744122,Leeds,United Kingdom (UK),GBP,607550,2022-01-06 18:33,28.333333,1
+Heather,Main,hmain26@sky.com,ML11 9YX,7809438851,Lanark,United Kingdom (UK),GBP,607549,2022-01-06 18:31,35625,1
+Nicola,Stead,Nicola.stead@outlook.com,SG2 8SD, +44 7875595864,Stevenage,United Kingdom (UK),GBP,607545,2022-01-06 18:23,9.166667,1
+Nicola,Stead,Nicola.stead@outlook.com,SG2 8SD, +44 7875595864,Stevenage,United Kingdom (UK),GBP,607545,2022-01-06 18:23,12.5,1
+Aimee,Jones,aimee1988@hotmail.co.uk,CF37 3AH,07943 834589,pontypridd,United Kingdom (UK),GBP,607544,2022-01-06 18:17,46.5,1
+Danielle,Powell,danniejackson1986@yahoo.co.uk,CO15 4BT,7896559429,Clacton-on-sea,United Kingdom (UK),GBP,607540,2022-01-06 17:21,21.666667,1
+Olivia,Meagher,oliviacm103@gmail.com,M8 4PU,447907265811,Manchester,United Kingdom (UK),GBP,607539,2022-01-06 17:12,18,1
+Richard,Studzinski,rickstudzinski@sky.com,CW2 8PP,7415440402,Wistaston Crewe,United Kingdom (UK),GBP,607538,2022-01-06 17:01,22.5,1
+Richard,Studzinski,rickstudzinski@sky.com,CW2 8PP,7415440402,Wistaston Crewe,United Kingdom (UK),GBP,607538,2022-01-06 17:01,10.833333,1
+Richard,Studzinski,rickstudzinski@sky.com,CW2 8PP,7415440402,Wistaston Crewe,United Kingdom (UK),GBP,607538,2022-01-06 17:01,19.166667,1
+tonia,stinchcombe,toniao1962@yahoo.co.uk,BS34 5PP, +44 1173298683,Bristol,United Kingdom (UK),GBP,607534,2022-01-06 16:56,19125,1
+Leigh,Webb,leighandmatty91@btinternet.com,SN7 8FT,7973899417,Faringdon,United Kingdom (UK),GBP,607533,2022-01-06 16:52,9.166667,1
+Leigh,Webb,leighandmatty91@btinternet.com,SN7 8FT,7973899417,Faringdon,United Kingdom (UK),GBP,607533,2022-01-06 16:52,7.5,1
+Bridget,Rustell,bridgetrustell@googlemail.com,TR13 8FH,,Helston,United Kingdom (UK),GBP,607532,2022-01-06 16:46,10,1
+Fiona,Fitzgerald,vinnie-fitzgerald@hotmail.co.uk,ML11 7RU, +44 7919556382,Lanark,United Kingdom (UK),GBP,607531,2022-01-06 16:32,22.5,1
+Kathryn,Evans,k8e.01@hotmail.co.uk,DE56 1BG, +44 1773826423,Belper,United Kingdom (UK),GBP,607529,2022-01-06 16:27,18.75,1
+Kathryn,Evans,k8e.01@hotmail.co.uk,DE56 1BG, +44 1773826423,Belper,United Kingdom (UK),GBP,607529,2022-01-06 16:27,18.75,1
+Beccie,Meehan,beccie.meehan@sky.com,WS7 2EU,7539900150,Burntwood,United Kingdom (UK),GBP,607528,2022-01-06 16:08,8.25,1
+Johanna,Smith,jwsmith7736@gmail.com,WS3 2QG,,Walsall,United Kingdom (UK),GBP,607525,2022-01-06 15:56,0,1
+Kirsty,Giles,kirstywaldram1984@hotmail.com,LE9 4FE,7583185558,Leicester,United Kingdom (UK),GBP,607524,2022-01-06 15:54,22.916667,1
+Tracey,Robinson,tracey92@hotmail.co.uk,HU12 0PA, +44 7901788148,Hull,United Kingdom (UK),GBP,607523,2022-01-06 15:45,20,1
+stewart,neave,stewartneave@live.co.uk,NE61 5NJ, +44 7734265482,Morpeth,United Kingdom (UK),GBP,607522,2022-01-06 15:43,33.333333,1
+stewart,neave,stewartneave@live.co.uk,NE61 5NJ, +44 7734265482,Morpeth,United Kingdom (UK),GBP,607521,2022-01-06 15:38,0,1
+Lesley,Green,lesley.green@hotmail.co.uk,ME10 1TT,1795475021,Sittingbourne,United Kingdom (UK),GBP,607520,2022-01-06 15:34,20.416667,1
+Amanda,Boast,mandylt@hotmail.com,GU15 2LR,7702945589,Camberley,United Kingdom (UK),GBP,607519,2022-01-06 15:18,10,1
+Yvonne,Mayo,ymayo56@hotmail.co.uk,WS3 1LT,7453002884,Walsall,United Kingdom (UK),GBP,607518,2022-01-06 15:07,22.5,1
+Mandy,Coulter,wee_mandy_c@hotmail.com,EH4 4PX,7963430996,Edinburgh,United Kingdom (UK),GBP,607514,2022-01-06 14:55,16.666667,1
+Mandy,Coulter,wee_mandy_c@hotmail.com,EH4 4PX,7963430996,Edinburgh,United Kingdom (UK),GBP,607514,2022-01-06 14:55,30,2
+Mandy,Coulter,wee_mandy_c@hotmail.com,EH4 4PX,7963430996,Edinburgh,United Kingdom (UK),GBP,607514,2022-01-06 14:55,66.666667,4
+Jessica,Nelson,jessicaelizabethnelson@msn.com,DE24 8SH, +44 7444970304,Derby,United Kingdom (UK),GBP,607513,2022-01-06 14:47,21,1
+Emma,Hancox,emjones_1709@hotmail.com,B14 4TG,7852529711,Birmingham,United Kingdom (UK),GBP,607510,2022-01-06 14:27,9.75,1
+Neil,Haycock,nippynev@yahoo.co.uk,RM16 6BB,7588075327,Grays,United Kingdom (UK),GBP,607509,2022-01-06 14:26,25.833333,1
+Paula,Basford,,GU34 2QU,,Alton,United Kingdom (UK),GBP,607508,2022-01-06 14:07,0,1
+belinda,dunstan-crarey,belinda.dc@yahoo.com,LS29 7ET, +44 1943862741,Ilkley,United Kingdom (UK),GBP,607507,2022-01-06 14:04,35,1
+Gemma,Fish,gemmalfish@gmail.com,S6 1FB,,sheffield,United Kingdom (UK),GBP,607506,2022-01-06 14:02,3,1
+Claire,Bradbury,clairebradbury87@hotmail.com,RG5 4TR,7771697231,Reading,United Kingdom (UK),GBP,607503,2022-01-06 13:37,36.666667,1
+Kate,Pearson,pearson.s8@sky.com,CA14 1YY,7557505520,Workington,United Kingdom (UK),GBP,607501,2022-01-06 13:28,15,1
+Oscar,Shaw,gregshawmailbox2@gmail.com,TS9 5AH,7377070095,Middlesbrough,United Kingdom (UK),GBP,607500,2022-01-06 13:19,0,1
+Carolyn,Williams,Carolynpatsy1964@gmail.com,CF14 7HL, +44 7554425375,Cardiff,United Kingdom (UK),GBP,607499,2022-01-06 13:10,18.75,1
+Ellie,Clay,elenapaige@onetel.com,CB10 2GP,7908958897,Saffron Walden,United Kingdom (UK),GBP,607498,2022-01-06 12:58,19.166667,1
+Sarah,Bond,sarah.sarahbond@gmail.com,NP11 4TB, +44 7482834497,Newport,United Kingdom (UK),GBP,607497,2022-01-06 12:56,11.666667,1
+Joanne,Partridge,jopartridge@live.com,B31 5BG, +44 1216089388,Birmingham,United Kingdom (UK),GBP,607496,2022-01-06 12:55,15,1
+amy,grainger,amymiddleton15@hotmail.com,LE67 5GN,7890634969,Coalville,United Kingdom (UK),GBP,607495,2022-01-06 12:46,18.333333,1
+pauline,barker,paulinebarker1963@yahoo.co.uk,TS19 8AT,7867626297,Stockton-on-tees,United Kingdom (UK),GBP,607491,2022-01-06 12:23,19.583333,1
+Savannah,Dalzell,savvy_309@hotmail.com,19800, +420 774 227 303,Prague 9,Czech Republic,GBP,607490,2022-01-06 12:22,18.75,1
+louise,maples,specialkid85@hotmail.com,CM1 6ED, +44 7468575007,Chelmsford,United Kingdom (UK),GBP,607489,2022-01-06 12:19,21.75,1
+Bradley,Weston,b.weston@hotmail.com,CT5 3FF,7891346568,Whitstable,United Kingdom (UK),GBP,607487,2022-01-06 11:59,0,1
+Linda,Paton,Lindapaton82@gmail.com,ML5 4TT,07904 541416,Coatbridge,United Kingdom (UK),GBP,607486,2022-01-06 11:59,30,1
+Claire,Morris,clairetempleman@yahoo.co.uk,NN29 7BX,7557516062,Irchester,United Kingdom (UK),GBP,607485,2022-01-06 11:54,20.833333,1
+Natasha,Watkins,natashawat@aol.com,SN25 1PZ,7402714510,Swindon,United Kingdom (UK),GBP,607484,2022-01-06 11:52,10.833333,1
+Natasha,Watkins,natashawat@aol.com,SN25 1PZ,7402714510,Swindon,United Kingdom (UK),GBP,607484,2022-01-06 11:52,14.166667,1
+Kerry,Morgan,kmor01@hotmail.co.uk,CV11 4NL,7838992233,Nuneaton,United Kingdom (UK),GBP,607483,2022-01-06 11:49,22.5,1
+Kerry,Morgan,kmor01@hotmail.co.uk,CV11 4NL,7838992233,Nuneaton,United Kingdom (UK),GBP,607483,2022-01-06 11:49,22.5,1
+Kerry,Morgan,kmor01@hotmail.co.uk,CV11 4NL,7838992233,Nuneaton,United Kingdom (UK),GBP,607483,2022-01-06 11:49,22.5,1
+Michele,Harris,mhshh147@gmail.com,BD10 9AY,7930651588,Bradford,United Kingdom (UK),GBP,607482,2022-01-06 11:38,27.5,1
+Magdalena,Tylkowska,magdalena_tylkowska1@wp.pl,BL9 9JG, +44 7311784193,Bury,United Kingdom (UK),GBP,607481,2022-01-06 11:36,25,1
+David,Birchall,david_birchall@yahoo.com,CH4 9AA,447799884036,Chester,United Kingdom (UK),GBP,607480,2022-01-06 11:33,26.666667,1
+Miss,Grosha,m.grosha@hotmail.co.uk,DY4 9QB,7368399249,Tipton,United Kingdom (UK),GBP,607477,2022-01-06 11:17,21.75,1
+Nadine,Jordan,nadinelouisejordan@hotmail.com,CV13 6EZ,447792716956,Nuneaton,United Kingdom (UK),GBP,607476,2022-01-06 11:08,13.5,1
+Susanne,Kane,susiekane74@gmail.com,ME12 3BB,7984433695,Sheerness,United Kingdom (UK),GBP,607474,2022-01-06 10:55,22.5,1
+Julie,Bishton,julieannbishton@gmail.com,DY13 9RZ,7958169335,Stourport-On-Severn,United Kingdom (UK),GBP,607473,2022-01-06 10:43,28.75,1
+Sarah,McHugh,sarjill@hotmail.com,LS29 0TH,7905351943,Ilkley,United Kingdom (UK),GBP,607467,2022-01-06 10:32,27.5,1
+Charlene ,Davies,floorless@yahoo.com,Cf55hu,7460207307,Cardiff ,United Kingdom (UK),GBP,607466,2022-01-06 10:31,43.333333,1
+Claire,Wheatley,c_gibson101@hotmail.com,DH8 7NY, +44 7923048320,Consett,United Kingdom (UK),GBP,607464,2022-01-06 10:09,9.75,1
+Stephanie,Doran,stephiedoran133@gmail.com,WA4 1QD,7821656982,Warrington,United Kingdom (UK),GBP,607461,2022-01-06 09:53,50,3
+Stephanie,Doran,stephiedoran133@gmail.com,WA4 1QD,7821656982,Warrington,United Kingdom (UK),GBP,607461,2022-01-06 09:53,28.333333,1
+Amanda,Stahl,amanda_stahl22@hotmail.co.uk,Sa10 6eh,7814081563,Skewen,United Kingdom (UK),GBP,607459,2022-01-06 09:32,28.333333,1
+Sian,Rankin,sianrankin@hotmail.com,B42 2FS,7954116022,Birmingham,United Kingdom (UK),GBP,607458,2022-01-06 09:17,21.75,1
+Maria,Solomou,maria.solo@me.com,N9 9PH,7951246169,London,United Kingdom (UK),GBP,607457,2022-01-06 09:09,36.666667,1
+phil,ounsley,jounsley@gmail.com,WF12 0PG, +44 7875074714,Dewsbury,United Kingdom (UK),GBP,607456,2022-01-06 08:32,18.333333,1
+Marie,Fluskey,mfluskey.tca@gmail.com,W91 A893,861739076,Baltinglass,Ireland,GBP,607455,2022-01-06 08:28,47.5,1
+Julie,Boon,julieboon115@hotmail.com,DA15 9EZ,7718853821,Sidcup,United Kingdom (UK),GBP,607454,2022-01-06 08:15,12.5,1
+Kate,Head,katerix@hotmail.com,BS35 2HJ,447792909444,Bristol,United Kingdom (UK),GBP,607452,2022-01-06 05:47,10.416667,1
+Kate,Head,katerix@hotmail.com,BS35 2HJ,447792909444,Bristol,United Kingdom (UK),GBP,607452,2022-01-06 05:47,22.083333,1
+Helen,Kadir,helendanby@icloud.com,LS11 8UA, +44 7877408923,Leeds,United Kingdom (UK),GBP,607447,2022-01-06 02:02,25,1
+sally,campbell,scampbell37@googlemail.com,PO20 3GU,077-222-65833,Chichester,United Kingdom (UK),GBP,607445,2022-01-06 01:49,14.166667,1
+Cerys,Williams,cerysmwilliams28@gmail.com,NP7 0DS, +44 7837 873097,Abergavenny,United Kingdom (UK),GBP,607443,2022-01-06 00:57,24.583333,1
+Megan,Kelly,megskelly@hotmail.co.uk,CO3 4RW, +44 7735076671,Colchester,United Kingdom (UK),GBP,607442,2022-01-05 23:12,14.166667,1
+Kirsty,Fox,foxy.84.k@gmail.com,NG10 3HG,7583473603,Nottingham,United Kingdom (UK),GBP,607441,2022-01-05 23:12,21.666667,1
+Kirsty,Fox,foxy.84.k@gmail.com,NG10 3HG,7583473603,Nottingham,United Kingdom (UK),GBP,607441,2022-01-05 23:12,20.416667,1
+Kirsty,Fox,foxy.84.k@gmail.com,NG10 3HG,7583473603,Nottingham,United Kingdom (UK),GBP,607441,2022-01-05 23:12,14.166667,1
+Louise,Mcnally,loumcnally@hotmail.co.uk,PH7 3NB,7553362993,Crieff,United Kingdom (UK),GBP,607437,2022-01-05 22:56,16.666667,1
+Louise,Mcnally,loumcnally@hotmail.co.uk,PH7 3NB,7553362993,Crieff,United Kingdom (UK),GBP,607437,2022-01-05 22:56,8.333333,1
+Jill,Gregory,jilltwaddlegregory@yahoo.co.uk,CM23 5DS, +44 1279303413,Bishop's Stortford,United Kingdom (UK),GBP,607436,2022-01-05 22:55,19.166667,1
+Paula,Croxall,dunny1898@hotmail.com,CM12 9NF,7540098236,Billericay,United Kingdom (UK),GBP,607435,2022-01-05 22:38,33.333333,1
+Gezon,Ross-Delpesche,gezon_ross@hotmail.co.uk,DL9 4JD, +44 7710034975,Catterick Garrison,United Kingdom (UK),GBP,607433,2022-01-05 22:30,14.166667,1
+Gezon,Ross-Delpesche,gezon_ross@hotmail.co.uk,DL9 4JD, +44 7710034975,Catterick Garrison,United Kingdom (UK),GBP,607433,2022-01-05 22:30,24.166667,1
+Gezon,Ross-Delpesche,gezon_ross@hotmail.co.uk,DL9 4JD, +44 7710034975,Catterick Garrison,United Kingdom (UK),GBP,607433,2022-01-05 22:30,20.833333,1
+Susan,White,susan.j.white@btinternet.com,DG2 9SL,7794594109,Dumfries,United Kingdom (UK),GBP,607432,2022-01-05 22:26,20,1
+Caroline,Winkley,carolinewinkley@yahoo.co.uk,HD7 4QQ,07977 200593,Huddersfield,United Kingdom (UK),GBP,607431,2022-01-05 22:23,20.833333,1
+Caroline,Winkley,carolinewinkley@yahoo.co.uk,HD7 4QQ,07977 200593,Huddersfield,United Kingdom (UK),GBP,607431,2022-01-05 22:23,9.166667,1
+Jessica,Knight,jessica_knight@live.co.uk,CM7 5QJ,7463714828,Braintree,United Kingdom (UK),GBP,607430,2022-01-05 21:59,10.5,1
+Tara,Waghorn,tara.louise29@hotmail.co.uk,DA12 5AW,7760231814,Gravesend,United Kingdom (UK),GBP,607429,2022-01-05 21:54,18,1
+Katharine,Wilkinson,pandk.kwilkinson@btinternet.com,LS24 9BB,447759495787,Tadcaster,United Kingdom (UK),GBP,607428,2022-01-05 21:53,11.666667,1
+Kathryn,Boyd,kathrynbusiness@hotmail.co.uk,BT30 9DJ,7540143870,Downpatrick,United Kingdom (UK),GBP,607427,2022-01-05 21:51,30,1
+Emma,Linley,emmalinley@hotmail.com,GL52 5GA,7808160490,Cheltenham,United Kingdom (UK),GBP,607426,2022-01-05 21:49,14625,1
+Emma,Linley,emmalinley@hotmail.com,GL52 5GA,7808160490,Cheltenham,United Kingdom (UK),GBP,607426,2022-01-05 21:49,14625,1
+Chloe,Barr,chloe.j.barr@gmail.com,AL4 9TZ,7877150184,St. Albans,United Kingdom (UK),GBP,607425,2022-01-05 21:44,15.833333,1
+Lisa,Cossn,lisajcos67@gmail.com,RM7 0WZ,07816 412673,Romford,United Kingdom (UK),GBP,607424,2022-01-05 21:39,18.333333,1
+Caroline,Kavanagh,carolinek95@hotmail.com,D16 H9V4, +353 876726648,Scholarstown Wood,Ireland,GBP,607423,2022-01-05 21:35,29.166667,1
+Faye,Caligari,fayestebbings9@gmail.com,AL4 0DS,7884341643,St Albans,United Kingdom (UK),GBP,607422,2022-01-05 21:30,12.5,1
+Hannah,Evans,learn.piano@hotmail.com,SA5 8AN, +44 7896182284,Swansea,United Kingdom (UK),GBP,607419,2022-01-05 21:23,10,1
+Gillian,King,gill1975.gk@gmail.com,PA6 7DA, +44 7764449816,Johnstone,United Kingdom (UK),GBP,607418,2022-01-05 21:22,24.166667,1
+Mary,Coulborn,miss_magic1985@live.co.uk,ST6 6XN, +44 7535884378,Stoke-on-trent,United Kingdom (UK),GBP,607417,2022-01-05 21:21,30,1
+Natasha,Williams,natasha.davies@live.co.uk,GL4 5UU,7950778318,Gloucester,United Kingdom (UK),GBP,607416,2022-01-05 21:18,22.5,1
+Chloe ,Major ,majorchloe2002@gmail.com,LS13 2TA,447539117801,Leeds,United Kingdom (UK),GBP,607415,2022-01-05 21:12,34.166667,1
+Beatrice,Rolfe,bearolfe@hotmail.com,OL8 1EN,7754389534,OLDHAM,United Kingdom (UK),GBP,607414,2022-01-05 21:10,25.833333,1
+Paula,Preston,paulapreston016@gmail.com,EH52 6WB, +44 7795255512,Broxburn,United Kingdom (UK),GBP,607413,2022-01-05 21:03,13.75,1
+Donna,Frost,donna.frost1@ntlworld.com,PO9 3PR,7960110521,Havant,United Kingdom (UK),GBP,607412,2022-01-05 21:01,22.5,1
+Sarah,BASS,s_j_whyman@hotmail.com,ME8 7DH,7545947872,Gillingham,United Kingdom (UK),GBP,607410,2022-01-05 20:54,8.25,1
+Nicola,Bateman,bateman.nicola@yahoo.com,MK18 2NG, +44 7369249901,Buckingham,United Kingdom (UK),GBP,607409,2022-01-05 20:49,25,1
+Claire ,Harris,clairetharris@outlook.com,E47fg,7940439501,London,United Kingdom (UK),GBP,607408,2022-01-05 20:47,9.166667,1
+Jill,Miller,jill@imagesystem.biz,G71 6QW,07972 611 168,Glasgow,United Kingdom (UK),GBP,607407,2022-01-05 20:43,30,1
+Jill,Miller,jill@imagesystem.biz,G71 6QW,07972 611 168,Glasgow,United Kingdom (UK),GBP,607407,2022-01-05 20:43,22.916667,1
+Leigh,Wells,leighvwells@hotmail.com,WF14 0BE,447704055957,Mirfield,United Kingdom (UK),GBP,607406,2022-01-05 20:37,63.333333,1
+Sarah,Etheridge,sarah.etheridge@yahoo.co.uk,BH10 6EL,7788833094,Bournemouth,United Kingdom (UK),GBP,607405,2022-01-05 20:32,10.833333,1
+Sarah,Etheridge,sarah.etheridge@yahoo.co.uk,BH10 6EL,7788833094,Bournemouth,United Kingdom (UK),GBP,607405,2022-01-05 20:32,28.333333,1
+Janette,Wright,jaydee62@hotmail.co.uk,G15 8JX,7951716983,Glasgow,United Kingdom (UK),GBP,607404,2022-01-05 20:31,10.416667,1
+Mr,Darlison,d.darlison@hotmail.co.uk,RH11 6EH,7760477512,Crawley,United Kingdom (UK),GBP,607401,2022-01-05 20:29,41.666667,1
+joy,devenport,jj.davenport1@ntlworld.com,SK8 6ND, +44 7903774870,Cheadle,United Kingdom (UK),GBP,607400,2022-01-05 20:15,22.916667,1
+joy,devenport,jj.davenport1@ntlworld.com,SK8 6ND, +44 7903774870,Cheadle,United Kingdom (UK),GBP,607400,2022-01-05 20:15,42.5,1
+denise,williams,denisewilliams.dw33@gmail.com,HP19 9JU,7842363432,Aylesbury,United Kingdom (UK),GBP,607399,2022-01-05 20:14,11.25,1
+denise,williams,denisewilliams.dw33@gmail.com,HP19 9JU,7842363432,Aylesbury,United Kingdom (UK),GBP,607399,2022-01-05 20:14,14.25,1
+Suemeya,Elmansori,suemeya@hotmail.co.uk,TN38 8BW, +44 7504191097,St. Leonards-on-sea,United Kingdom (UK),GBP,607398,2022-01-05 20:09,54.166667,1
+Sarah,Parish,sarahparish1@hotmail.co.uk,BS22 8UT,447971160795,Weston-super-Mare,United Kingdom (UK),GBP,607397,2022-01-05 20:05,6.75,1
+Sarah,Parish,sarahparish1@hotmail.co.uk,BS22 8UT,447971160795,Weston-super-Mare,United Kingdom (UK),GBP,607397,2022-01-05 20:05,6.75,1
+Sarah,Parish,sarahparish1@hotmail.co.uk,BS22 8UT,447971160795,Weston-super-Mare,United Kingdom (UK),GBP,607397,2022-01-05 20:05,6.75,1
+denise,boyd,deniseboyd1975@msn.com,FK10 2QX, +44 7494456837,Alloa,United Kingdom (UK),GBP,607396,2022-01-05 20:05,20.416667,1
+denise,boyd,deniseboyd1975@msn.com,FK10 2QX, +44 7494456837,Alloa,United Kingdom (UK),GBP,607396,2022-01-05 20:05,21.5,1
+Tracy,Coldrick,coldricktracy@gmail.com,PO9 3NF,7908995698,Bedhampton,United Kingdom (UK),GBP,607391,2022-01-05 19:59,35.833333,1
+Clare ,Lewis ,clarel@ymail.com,CH45 3LD,7794074276,Wallasey,United Kingdom (UK),GBP,607390,2022-01-05 19:53,14.583333,1
+Joanne,Bell,joanne_04_881@hotmail.com,NE21 4FP,7772348492,Blaydon-on-tyne,United Kingdom (UK),GBP,607389,2022-01-05 19:30,19.166667,1
+Rosemary,barlow,rosebarlow1@hotmail.co.uk,ST14 7NN, +44 7732274575,Uttoxeter,United Kingdom (UK),GBP,607388,2022-01-05 19:30,9.166667,1
+Sharon,Moore,sharon.moore121@yahoo.co.uk,DA14 5EW,7875093143,Sidcup,United Kingdom (UK),GBP,607386,2022-01-05 19:29,28.75,1
+Sharon,brooks,brooks31@btinternet.com,NG13 9FP, +44 1949851288,Nottingham,United Kingdom (UK),GBP,607385,2022-01-05 19:27,12.5,1
+Melanie,Bennett,mel1723kernow@yahoo.com,WV6 7NY,7876045545,Wolverhampton,United Kingdom (UK),GBP,607384,2022-01-05 19:22,27375,1
+Eilish,Cuddy,eilishcuddy@hotmail.com,,353879252678,Castletown,Ireland,GBP,607383,2022-01-05 19:16,26.25,1
+Louise,Cherry,amycherry2000@sky.com,BN2 4TF,7712569729,Brighton,United Kingdom (UK),GBP,607382,2022-01-05 19:12,27.5,1
+Ellie,Foster,elfosterr@gmail.com,CW2 8RX,7787564647,Crewe,United Kingdom (UK),GBP,607381,2022-01-05 19:11,22.5,1
+Bridget,Wilson,bridgetwilson97@yahoo.co.uk,CW2 5TF,7769332895,Crewe,United Kingdom (UK),GBP,607380,2022-01-05 19:08,12.75,1
+Phil,Harley,philipharley66@googlemail.com,RM9 5PP,7770617814,Essex,United Kingdom (UK),GBP,607379,2022-01-05 19:06,30,1
+Melissa,Petherbridge,mpetherbridge25@gmail.com,BR7 6BU,7717310421,Chislehurst,United Kingdom (UK),GBP,607377,2022-01-05 18:54,20.416667,1
+Vanessa,Ogden,vanessa.ogden@hotmail.com,GU52 0RG,7791321158,Fleet,United Kingdom (UK),GBP,607376,2022-01-05 18:47,28.75,1
+Andrea,Rothwell,andrearothwell375@gmail.com,BL9 5HP,7746395687,Bury,United Kingdom (UK),GBP,607373,2022-01-05 17:36,28.333333,2
+sarah,spencer,sarahjaynespencer@hotmail.co.uk,DH4 4PX,447895693230,Tyne and Wear,United Kingdom (UK),GBP,607371,2022-01-05 17:25,14.166667,1
+Peter,Mouat,peter_mouat@hotmail.co.uk,CB25 9NF,447477522993,Cambridge,United Kingdom (UK),GBP,607370,2022-01-05 17:18,22.916667,1
+Jane,Minto,Janeminto950@hotmail.com,DH3 1BL,7944871363,Chester Le Street,United Kingdom (UK),GBP,607369,2022-01-05 17:07,9.166667,1
+Lorraine ,Hussain,lorraine.hussain@hotmail.co.uk,NE7 7NB,1912922141,Newcastle Upon Tyne,United Kingdom (UK),GBP,607368,2022-01-05 17:06,9.166667,1
+Tracey,McGrail,traceyroberts06@hotmail.co.uk,BB12 0TE,447933195807,Burnley,United Kingdom (UK),GBP,607367,2022-01-05 17:02,12.5,1
+Julie,Joseph,juliejoseph963@gmail.com,CF44 8BG,7870470201,Aberdare,United Kingdom (UK),GBP,607365,2022-01-05 16:40,9.166667,1
+Meghan,Galt,meg_g@live.com,CW5 7AS,7805853734,Nantwich,United Kingdom (UK),GBP,607360,2022-01-05 16:13,20.833333,1
+Kirsty,Law,kirstyjaynelaw@hotmail.co.uk,SN11 8NY,447812043123,Calne,United Kingdom (UK),GBP,607359,2022-01-05 15:59,15.416667,1
+Hayley,Storrs,hayleyjade58@icloud.com,HX3 7EN,7506151094,Halifax,United Kingdom (UK),GBP,607358,2022-01-05 15:53,35.25,1
+SHARON,AVELING,sharonaveling@hotmail.com,CT11 8EJ,7989352007,Ramsgate,United Kingdom (UK),GBP,607354,2022-01-05 15:35,14.25,1
+Debbie,Morley,debbiemorley@hotmail.com,BL5 3DA,7969132715,Bolton,United Kingdom (UK),GBP,607351,2022-01-05 15:13,8.25,1
+Delyth,Morgan,misships18@gmail.com,SA2 8JE,7880768698,Swansea,United Kingdom (UK),GBP,607347,2022-01-05 14:50,17.083333,1
+Rebecca,James,beckijay07@gmail.com,NN7 2PZ,7450217488,Roade,United Kingdom (UK),GBP,607346,2022-01-05 14:17,,
+Jason,Willmore,jason.willmore@gmail.com,WS12 4ST,7816506902,Cannock,United Kingdom (UK),GBP,607345,2022-01-05 14:16,33.333333,1
+Rebecca,James,beckijay07@gmail.com,NN7 2PZ,7450217488,Northampton,United Kingdom (UK),GBP,607344,2022-01-05 14:12,41.666667,1
+Laura,Livingstone,laura.livingstone92@gmail.com,BT60 1JG,7928285043,Armagh,United Kingdom (UK),GBP,607343,2022-01-05 14:09,13.333333,1
+Brett,Plant,brettplant@hotmail.com,DY5 3DQ,7767358653,Brierley Hill,United Kingdom (UK),GBP,607342,2022-01-05 14:08,22.5,1
+Nicole,Fraser,nicole.fraser2@virgin.net,HP9 1GY,7739776140,Beaconsfield,United Kingdom (UK),GBP,607340,2022-01-05 13:51,22.916667,1
+Lisa,Kelly,lisakelly1701@yahoo.com,NE5 1XD,7506121868,Newcastle Upon Tyne,United Kingdom (UK),GBP,607339,2022-01-05 13:50,0,1
+Lisa,Kelly,lisakelly1701@yahoo.com,NE5 1XD,7506121868,Newcastle Upon Tyne,United Kingdom (UK),GBP,607339,2022-01-05 13:50,0,1
+louise,jordan,pantsjordan@hotmail.com,HU11 4HL,7766396648,Hull,United Kingdom (UK),GBP,607338,2022-01-05 13:47,14.166667,1
+Frances,TILLIER,f.tillier55@talktalk.net,NN3 9EX,07710 500647,Northampton,United Kingdom (UK),GBP,607334,2022-01-05 13:25,12.5,1
+Pauline,Edwards,pauline2edwards@aol.com,E14 3NH,7949874234,London,United Kingdom (UK),GBP,607333,2022-01-05 13:24,14.166667,1
+Jackue,Foster,JIBFoster65@gmail.com,RG30 4RY,7775784326,Tilehurst Reading,United Kingdom (UK),GBP,607332,2022-01-05 13:20,30.416667,1
+Elizabeth,Guthrie,lizguthrie57@gmail.com,ML1 4AP, +44 7979871496,Motherwell,United Kingdom (UK),GBP,607331,2022-01-05 13:20,16.666667,1
+Mandy,Latimer,the.latimers@yahoo.co.uk,GU14 8SZ,7412038883,Farnborough,United Kingdom (UK),GBP,607330,2022-01-05 13:09,28.75,1
+Joanne,Dack,joannedack79@hotmail.com,N1 3ET,7950861577,London,United Kingdom (UK),GBP,607329,2022-01-05 13:06,10.833333,1
+Lisa,Game,lisagame82@gmail.com,SG1 5LU,7516187901,Stevenage,United Kingdom (UK),GBP,607326,2022-01-05 12:45,15,1
+Claire,Waymouth,claireway10@tiscali.co.uk,CH66 2GA, +44 1513480770,Ellesmere Port,United Kingdom (UK),GBP,607322,2022-01-05 12:18,26.666667,1
+Kim,Storer,kimmichelle.66@outlook.com,DE65 5NX,07946 786834,Derby,United Kingdom (UK),GBP,607320,2022-01-05 11:49,15,1
+Janet,O'connell,janetoconnell@hotmail.co.uk,UB4 0AW,7983566974,Hayes,United Kingdom (UK),GBP,607319,2022-01-05 11:47,21.25,1
+A,Elliott,elliott1962@sky.com,NE5 4NT, +44 7738857758,Newcastle Upon Tyne,United Kingdom (UK),GBP,607318,2022-01-05 11:45,14.166667,1
+Viki,Fairweather,fairweatherviki12@gmail.com,YO32 9RD, +44 7824511610,York,United Kingdom (UK),GBP,607316,2022-01-05 11:31,46.666667,1
+Kieren,Clark,kiewea@icloud.com,L39 5AN,7392335894,Ormskirk,United Kingdom (UK),GBP,607313,2022-01-05 11:14,35,1
+Anita,Luri,AnitaGashi@hotmail.co.uk,CT20 1SF,7551287439,The United Kingdom,United Kingdom (UK),GBP,607312,2022-01-05 11:01,27.083333,1
+Melanie,Hill,tinkemel@yahoo.co.uk,FY6 7XP,07557 129355,Poulton-le-fylde,United Kingdom (UK),GBP,607311,2022-01-05 11:00,5.00,1
+HELEN,HOUGH,HELENLHOUGH@AOL.COM,LL12 9UG, +44 1978760241,Wrexham,United Kingdom (UK),GBP,607310,2022-01-05 11:00,39.166667,1
+Harriet,Walker,hgwalker19@gmail.com,DY10 4TY,7803275519,Kidderminster,United Kingdom (UK),GBP,607306,2022-01-05 11:00,21.666667,1
+Kaitlin,Reakes,kaitlinelizabethxox@gmail.com,NP20 6WP,447311822346,Newport,United Kingdom (UK),GBP,607305,2022-01-05 10:55,12.5,1
+Maddie,Slocombe,chrisslocombe81@gmail.com,SA10 8SR,447490969691,Neath,United Kingdom (UK),GBP,607304,2022-01-05 10:25,15,1
+Carly,Honeycombe,carly1989@gmail.com,S11 9HH, +44 7841381946,Sheffield,United Kingdom (UK),GBP,607303,2022-01-05 10:24,21,1
+Carly,Honeycombe,carly1989@gmail.com,S11 9HH, +44 7841381946,Sheffield,United Kingdom (UK),GBP,607303,2022-01-05 10:24,21,1
+Stephanie,Hobson,stephsayer@hotmail.com,LA3 2BN, +44 7784137892,Morecambe,United Kingdom (UK),GBP,607302,2022-01-05 10:15,16875,1
+Janice,Fauset-Jones,jfausetjones@gmail.com,BL7 0BN,7739370479,Bolton,United Kingdom (UK),GBP,607301,2022-01-05 10:05,22.5,1
+Wallace,suzanne,suz766@hotmail.com,ML1 4TY, +44 7738496974,Motherwell,United Kingdom (UK),GBP,607298,2022-01-05 09:53,10.833333,1
+ian,mansfield,imansfield98@hotmail.com,CM9 6ZH, +44 7512347796,Maldon,United Kingdom (UK),GBP,607297,2022-01-05 09:47,11.666667,1
+ian,mansfield,imansfield98@hotmail.com,CM9 6ZH, +44 7512347796,Maldon,United Kingdom (UK),GBP,607297,2022-01-05 09:47,17.083333,1
+Sophie,Cowen,sophiecowen897@yahoo.com,BT344TG,,Newry,United Kingdom (UK),GBP,607296,2022-01-05 09:47,0,1
+Lucy,Fowler,lucyafowler@icloud.com,CM22 7JD,447769975332,Essex,United Kingdom (UK),GBP,607295,2022-01-05 09:41,,
+Charlotte,Eades,lottieeades@hotmail.co.uk,DY13 8AE,7867410848,Stourport-on-severn,United Kingdom (UK),GBP,607293,2022-01-05 09:30,16.666667,1
+Christine,Banner,chrisbanner1968@googlemail.com,WA7 6EB,07504 007563,Runcorn,United Kingdom (UK),GBP,607291,2022-01-05 08:49,12.5,1
+Nicola,Bridges,nicola_b84@hotmail.co.uk,DA5 2EL, +44 7507845392,Bexley,United Kingdom (UK),GBP,607290,2022-01-05 08:44,18.333333,1
+Julie,Russell,julie_russ@hotmail.com,DN32 7RY, +44 7849212827,Grimsby,United Kingdom (UK),GBP,607287,2022-01-05 07:53,14.166667,1
+Rebecca,Wells,beckyw2311@yahoo.com,PE19 2RJ,7843082789,St. Neots,United Kingdom (UK),GBP,607283,2022-01-05 06:43,22.5,1
+Heidi,Holman,heidiholman1@aol.com,CO7 8BU, +44 7970493828,Colchester,United Kingdom (UK),GBP,607273,2022-01-04 23:57,12.5,1
+Pippa,Munro,pip162@me.com,IP24 3NG, +44 7540523026,THETFORD,United Kingdom (UK),GBP,607272,2022-01-04 23:51,27.083333,1
+Sylvia,Robinson,CarolineRobinson1979@live.co.uk,ST7 8NG,7866793238,Stoke-on-trent,United Kingdom (UK),GBP,607271,2022-01-04 23:43,36.666667,1
+Sylvia,Robinson,CarolineRobinson1979@live.co.uk,ST7 8NG,7866793238,Stoke-on-trent,United Kingdom (UK),GBP,607271,2022-01-04 23:43,41.666667,1
+Michelle,Barratt,mlbslb@live.co.uk,BB2 3AA,7803169551,Blackburn,United Kingdom (UK),GBP,607270,2022-01-04 23:33,40,1
+Danielle,Percival,daniellep20111@hotmail.co.uk,BR6 8PP,447720897411,Orpington,United Kingdom (UK),GBP,607264,2022-01-04 22:58,9.166667,1
+Komal,Naik,komalnaik@hotmail.com,RG21 4ER,7870638747,Basingstoke,United Kingdom (UK),GBP,607263,2022-01-04 22:54,20.833333,1
+Tracey,Spalding,traceyspalding@hotmail.co.uk,IP11 7QW,7834195016,Felixstowe,United Kingdom (UK),GBP,607262,2022-01-04 22:49,14.166667,2
+Tracey,Spalding,traceyspalding@hotmail.co.uk,IP11 7QW,7834195016,Felixstowe,United Kingdom (UK),GBP,607262,2022-01-04 22:49,10.416667,1
+Tracey,Spalding,traceyspalding@hotmail.co.uk,IP11 7QW,7834195016,Felixstowe,United Kingdom (UK),GBP,607262,2022-01-04 22:49,10.416667,1
+Lucy,Fowler,lucyafowler@icloud.com,CM22 7JD,447769975332,Hatfield Broad Oak,United Kingdom (UK),GBP,607261,2022-01-04 22:46,14.583333,1
+Wendy,Nothard,wenz69xxx@aol.com,M44 6LJ, +44 1617758855,Manchester,United Kingdom (UK),GBP,607260,2022-01-04 22:42,14.166667,1
+clare,upton,clareupton01@hotmail.co.uk,KY11 2DZ, +44 7706015716,Dunfermline,United Kingdom (UK),GBP,607258,2022-01-04 22:29,30.75,1
+David,Farquhar,d.avis66@yahoo.com,SW16 4NL,7834503473,London,United Kingdom (UK),GBP,607257,2022-01-04 22:18,30.833333,1
+Daphne,Perkins,baggy1979@hotmail.com,BN27 4RX, +44 7800869865,Hailsham,United Kingdom (UK),GBP,607256,2022-01-04 22:08,20.833333,1
+Lauren,Cousins,Laurencousins24@yahoo.co.uk,PE20 1HX, +44 7423075234,Boston,United Kingdom (UK),GBP,607255,2022-01-04 22:04,16.666667,1
+Sharron,benson,sharronbenson@sky.com,CA14 3UY, +44 1900606957,Workington,United Kingdom (UK),GBP,607252,2022-01-04 21:56,19.166667,1
+Toni,Thorp,t.t07731@hotmail.co.uk,LS16 8FX,7889291016,Leeds,United Kingdom (UK),GBP,607251,2022-01-04 21:50,18.75,1
+Toni,Thorp,t.t07731@hotmail.co.uk,LS16 8FX,7889291016,Leeds,United Kingdom (UK),GBP,607251,2022-01-04 21:50,16875,1
+Toni,Thorp,t.t07731@hotmail.co.uk,LS16 8FX,7889291016,Leeds,United Kingdom (UK),GBP,607251,2022-01-04 21:50,18.75,1
+Toni,Thorp,t.t07731@hotmail.co.uk,LS16 8FX,7889291016,Leeds,United Kingdom (UK),GBP,607251,2022-01-04 21:50,18.75,1
+Toni,Thorp,t.t07731@hotmail.co.uk,LS16 8FX,7889291016,Leeds,United Kingdom (UK),GBP,607251,2022-01-04 21:50,18.75,1
+Toni,Thorp,t.t07731@hotmail.co.uk,LS16 8FX,7889291016,Leeds,United Kingdom (UK),GBP,607251,2022-01-04 21:50,16875,1
+Toni,Thorp,t.t07731@hotmail.co.uk,LS16 8FX,7889291016,Leeds,United Kingdom (UK),GBP,607251,2022-01-04 21:50,16875,1
+Toni,Thorp,t.t07731@hotmail.co.uk,LS16 8FX,7889291016,Leeds,United Kingdom (UK),GBP,607251,2022-01-04 21:50,20.25,1
+Toni,Thorp,t.t07731@hotmail.co.uk,LS16 8FX,7889291016,Leeds,United Kingdom (UK),GBP,607251,2022-01-04 21:50,18.75,1
+Steffi,Higgs,steffi_higgs@hotmail.com,NP44 3PQ,7972832635,Cwmbran,United Kingdom (UK),GBP,607250,2022-01-04 21:41,15.566667,1
+John,Boyle,johnboy2008@hotmail.co.uk,BT53 8YL, +44 7927885196,Ballymoney,United Kingdom (UK),GBP,607249,2022-01-04 21:38,18.333333,1
+Catherine,Dacey,catherine_g_678@hotmail.co.uk,NP20 5FR,7845047823,Newport,United Kingdom (UK),GBP,607247,2022-01-04 21:29,50,1
+jackie,towler,jackie.towler@sky.com,SM2 6JR,7596174817,Sutton,United Kingdom (UK),GBP,607243,2022-01-04 20:52,35.416667,1
+Joanne,Whelan,joannewhelan1977@gmail.com,DE5 8PH,7813770917,Ripley,United Kingdom (UK),GBP,607242,2022-01-04 20:49,8.25,1
+Joanne,Whelan,joannewhelan1977@gmail.com,DE5 8PH,7813770917,Ripley,United Kingdom (UK),GBP,607242,2022-01-04 20:49,8.25,1
+Rachael,Gannon,rachael.gannon@outlook.com,WA2 0QW, +44 7584126776,Warrington,United Kingdom (UK),GBP,607241,2022-01-04 20:49,54.166667,1
+Natasha,Burn,natasha.burn79@googlemail.com,SA13 1HB,7889162400,Port Talbot,United Kingdom (UK),GBP,607240,2022-01-04 20:45,24.166667,1
+Trudy,Lacey,robinandtrudy@live.co.uk,TS10 2PP,7816536051,Redcar,United Kingdom (UK),GBP,607239,2022-01-04 20:45,9.166667,1
+Nicola,Tully,tully_nikki@yahoo.co.uk,N41 DE28, +353 0863688352,Mohill,Ireland,GBP,607238,2022-01-04 20:33,16.25,1
+Danielle,jeakins,daniellejeakins@hotmail.co.uk,CO16 8YW, +44 7572046532,Clacton-on-sea,United Kingdom (UK),GBP,607237,2022-01-04 20:30,75,2
+Katie,Duke,bieber_winchester@hotmail.com,BL9 7RQ,07955 903019,Bury,United Kingdom (UK),GBP,607235,2022-01-04 20:26,17.916667,1
+Aisling,Mc laughlin,aisling92@outlook.ie,UB96JE,7477011235,Uxbridge ,United Kingdom (UK),GBP,607234,2022-01-04 20:23,28.75,1
+Michelle,Abbott,michelle35abbott@hotmail.com,LS19 7YT,07793 540198,Leeds,United Kingdom (UK),GBP,607233,2022-01-04 20:15,9.166667,1
+Michelle,Abbott,michelle35abbott@hotmail.com,LS19 7YT,07793 540198,Leeds,United Kingdom (UK),GBP,607233,2022-01-04 20:15,9.166667,1
+Michelle,Abbott,michelle35abbott@hotmail.com,LS19 7YT,07793 540198,Leeds,United Kingdom (UK),GBP,607233,2022-01-04 20:15,8.333333,1
+Susan,Thomas,thomass053@outlook.com,CF5 1GP,2920212053,Cardiff,United Kingdom (UK),GBP,607232,2022-01-04 20:13,24.166667,1
+MARY,ROBINSON,derekrobinson694@gmail.com,BT82 0BL, +44 2871883358,Strabane,United Kingdom (UK),GBP,607231,2022-01-04 20:06,18.333333,1
+Julie,Prettyman,julie.prettyman@sky.com,NR34 9RP,447421003380,Beccles,United Kingdom (UK),GBP,607230,2022-01-04 20:06,20.833333,1
+Lauren,Burton,lburton24@icloud.com,NP26 4AE,7879332161,Caldicot,United Kingdom (UK),GBP,607229,2022-01-04 20:04,22.5,1
+susan e,shawyer,susieshawyer@hotmail.co.uk,PO1 5QB, +44 7881820648,Portsmouth,United Kingdom (UK),GBP,607228,2022-01-04 20:01,55.833333,1
+Ruth,Scrocca,ruthps40@hotmail.co.uk,DY10 4RR,447446149257,Kidderminster,United Kingdom (UK),GBP,607226,2022-01-04 19:57,31.25,1
+Angela,Smith,libertysmith22@yahoo.co.uk,HP13 7BE,7826925042,High Wycombe,United Kingdom (UK),GBP,607225,2022-01-04 19:34,22.5,1
+nova,bull,novabell31@gmail.com,CA26 3QG, +44 7923313812,Frizington,United Kingdom (UK),GBP,607219,2022-01-04 19:19,20.833333,1
+Helen,Haynes,helen.haynes@virginmedia.com,LU6 3LQ,7974756539,Dunstable,United Kingdom (UK),GBP,607218,2022-01-04 19:19,12.5,1
+vanessa,Joslin,vanessajoslin67@outlook.com,CH64 6RX, +44 7585110407,Neston,United Kingdom (UK),GBP,607217,2022-01-04 19:02,23.333333,1
+vanessa,Joslin,vanessajoslin67@outlook.com,CH64 6RX, +44 7585110407,Neston,United Kingdom (UK),GBP,607217,2022-01-04 19:02,25.416667,1
+Helen,Cole,helencole016@gmail.com,WR11 8YB, +44 7837903723,Evesham,United Kingdom (UK),GBP,607214,2022-01-04 18:52,24.166667,1
+Adam,Tamuzadde,adamz2004@hotmail.co.uk,SM5 1JZ,7538881873,Carshalton,United Kingdom (UK),GBP,607213,2022-01-04 18:47,34.166667,1
+Estelle,Hollis,estellehollis@aol.com,EH11 4SN,7595153080,Edinburgh,United Kingdom (UK),GBP,607212,2022-01-04 18:41,31.25,1
+Karen,Llewellyn,karen.llewellyn@talktalk.net,SA4 4PA,7896182657,Swansea,United Kingdom (UK),GBP,607211,2022-01-04 18:36,9.166667,1
+Adam,Shepherd,adamshep71@gmail.com,IP19 8SA,1986875447,Halesworth,United Kingdom (UK),GBP,607207,2022-01-04 18:10,32.5,1
+Jennifer,Duff,jenniferaduff@aol.com,IV17 0RU,7714237853,Alness,United Kingdom (UK),GBP,607206,2022-01-04 18:01,15,1
+Jennifer,Duff,jenniferaduff@aol.com,IV17 0RU,7714237853,Alness,United Kingdom (UK),GBP,607206,2022-01-04 18:01,20625,1
+Ashley,Gray,ashley.gray694@gmail.com,M9 7HW,4407411134822,Manchester,United Kingdom (UK),GBP,607201,2022-01-04 17:56,22.5,1
+Joanne,Coulson,joanne.coulson2@ntlworld.com,CM23 4JX,7787844111,Bishop's Stortford,United Kingdom (UK),GBP,607200,2022-01-04 17:38,12.5,1
+Joanne,Coulson,joanne.coulson2@ntlworld.com,CM23 4JX,7787844111,Bishop's Stortford,United Kingdom (UK),GBP,607200,2022-01-04 17:38,20.833333,1
+Leah,Palmer-Jones,leahpalmerjones@yahoo.co.uk,CT6 7QH,7785317326,Herne Bay,United Kingdom (UK),GBP,607194,2022-01-04 17:27,18.333333,1
+natalie,kendall,nataliekendall@talktalk.net,S6 1JN,7918637110,sheffield,United Kingdom (UK),GBP,607193,2022-01-04 17:11,27.083333,1
+natalie,kendall,nataliekendall@talktalk.net,S6 1JN,7918637110,sheffield,United Kingdom (UK),GBP,607193,2022-01-04 17:11,18.333333,1
+Heather,Harrison,heatherharri@hotmail.com,SA62 6BG,7496708356,Haverfordwest,United Kingdom (UK),GBP,607192,2022-01-04 17:11,16.666667,1
+Julie,Adamson,julie.adamson@hotmail.co.uk,DH4 4PX,7980492320,Houghton Le Spring,United Kingdom (UK),GBP,607191,2022-01-04 17:09,22.333333,1
+Claire,North,claire_north.1984@rocketmail.com,HD3 4RX,7786112682,HUDDERSFIELD,United Kingdom (UK),GBP,607190,2022-01-04 17:07,35,1
+Helen,Smart,Helen.smart@yahoo.co.uk,WV7 3JZ,7908743196,Wolverhampton,United Kingdom (UK),GBP,607189,2022-01-04 17:03,14.166667,1
+Corinne,McGinty,corinne_mcginty@hotmail.co.uk,CH46 0PZ, +44 1516785232,Wirral,United Kingdom (UK),GBP,607186,2022-01-04 16:54,13.333333,1
+Emma,Grannell,emma.grannell@outlook.com,B42 2BY,7392857971,Perry Barr,United Kingdom (UK),GBP,607185,2022-01-04 16:42,11.25,1
+Emma,Grannell,emma.grannell@outlook.com,B42 2BY,7392857971,Perry Barr,United Kingdom (UK),GBP,607185,2022-01-04 16:42,33.75,3
+Leah,Palmer-Jones,leahpalmerjones@yahoo.co.uk,CT6 7QH,7785317326,Herne Bay,United Kingdom (UK),GBP,607184,2022-01-04 16:42,18.333333,1
+Georgina,Wistow,gwistow@yahoo.com,N8 9SY,7966361605,London,United Kingdom (UK),GBP,607183,2022-01-04 16:35,31.25,1
+Laura ,Knapman,lauraknapman_1993@hotmail.co.uk,NP19 0EU,7940797077,Newport,United Kingdom (UK),GBP,607181,2022-01-04 16:08,9.166667,1
+Eve,Forbes,eveforbes33@hotmail.com,LL11 2RE,7541137345,Wrexham,United Kingdom (UK),GBP,607178,2022-01-04 15:49,0,1
+Sarah,Jay,sarah.jay128@gmail.com,IP5 2FG,7703294121,Ipswich,United Kingdom (UK),GBP,607176,2022-01-04 15:27,9.166667,1
+Julie,doust,julie@astuteqs.co.uk,CV31 2TJ, +44 7887867992,Leamington Spa,United Kingdom (UK),GBP,607175,2022-01-04 15:26,10,1
+Hayley,Came,hayley@camelotbooks.co.uk,CF3 4EG,7790668176,Cardiff,United Kingdom (UK),GBP,607174,2022-01-04 15:07,0,1
+Emily,Nelson,nemily19@gmail.com,DL3 8ES,7411030111,Darlington,United Kingdom (UK),GBP,607171,2022-01-04 14:47,16875,1
+Aliesha,Ford,splish13@hotmail.com,GY5 7TS, +44 7781431482,Guernsey,United Kingdom (UK),GBP,607170,2022-01-04 14:46,19.166667,1
+Janis,Owers,janisowers@yahoo.co.uk,SN4 7HS,7502224946,Swindon,United Kingdom (UK),GBP,607167,2022-01-04 14:36,20.25,1
+Joy,Gordon,joygordon30@msn.com,G40 4DG,7561159369,Glasgow,United Kingdom (UK),GBP,607166,2022-01-04 14:31,23.75,1
+Natalie,Bone,natalieebone@yahoo.com,TS17 8QA, +44 447429079095,Stockton-on-tees,United Kingdom (UK),GBP,607162,2022-01-04 14:28,54.166667,1
+Azalea,Obaye-Briggs,aurora393@hotmail.com,SE5 9JE, +44 7507372699,London,United Kingdom (UK),GBP,607161,2022-01-04 14:24,28.333333,1
+Lauri,Elliott,lauri2577@yahoo.co.uk,NE34 8LJ,7931429509,South Shields,United Kingdom (UK),GBP,607160,2022-01-04 14:22,,
+William,Parkinson,billy.parkinson@murraywood.com,L40 1RZ, +44 7966069347,Rufford,United Kingdom (UK),GBP,607151,2022-01-04 13:52,0,1
+Helen,Scott,hascott81@gmail.com,YO13 9GX,07980 925448,Scarborough,United Kingdom (UK),GBP,607149,2022-01-04 13:23,7.5,1
+Helen,Scott,hascott81@gmail.com,YO13 9GX,07980 925448,Scarborough,United Kingdom (UK),GBP,607149,2022-01-04 13:23,7.5,1
+Helen,Scott,hascott81@gmail.com,YO13 9GX,07980 925448,Scarborough,United Kingdom (UK),GBP,607149,2022-01-04 13:23,7.5,1
+Carol,Wells,Carol.wells63@yahoo.com,DG1 4YB, +44 1387256682,Dumfries,United Kingdom (UK),GBP,607148,2022-01-04 13:17,3.333333,2
+Carol,Wells,Carol.wells63@yahoo.com,DG1 4YB, +44 1387256682,Dumfries,United Kingdom (UK),GBP,607148,2022-01-04 13:17,50,1
+Lizzie,Fletcher,Lizziefletcher90@gmail.com,,7576535888,Rotherham,United Kingdom (UK),GBP,607144,2022-01-04 12:55,,
+Danielle,Foalle,danielle.foalle@live.co.uk,PL9 9PR,07590 099336,Plymouth,United Kingdom (UK),GBP,607143,2022-01-04 12:50,0,1
+Amie ,Gallagher ,amiejgallagher04@hotmail.com,OL115RZ,7956416716,Rochdale ,United Kingdom (UK),GBP,607142,2022-01-04 12:44,30,1
+Lizzie,Fletcher,Lizziefletcher90@gmail.com,S66 1FQ,7576535888,Rotherham,United Kingdom (UK),GBP,607140,2022-01-04 12:42,18.333333,1
+Nicola,Peck,chloepeck12@icloud.com,HU15 2RG,7779831728,Brough,United Kingdom (UK),GBP,607139,2022-01-04 12:36,16.666667,1
+Claire,Barnes,barnes.claire10@gmail.com,S8 9QW,7809736252,Sheffield,United Kingdom (UK),GBP,607138,2022-01-04 12:35,18.75,1
+Hannah,Lodge,hgfindlay@gmail.com,Ls19 7LR,,Yeadon,United Kingdom (UK),GBP,607137,2022-01-04 12:32,0,1
+Lee,Thomas,leemarshmanthomas@gmail.com,NG1 1JL,7974769135,Nottingham,United Kingdom (UK),GBP,607136,2022-01-04 12:29,15,1
+Adam,Beckett,becks0659@hotmail.co.uk,HP18 0UX, +44 7557961139,Aylesbury,United Kingdom (UK),GBP,607135,2022-01-04 12:13,0,1
+Rosemary,barlow,rosebarlow1@hotmail.co.uk,ST14 7NN, +44 7732274575,Uttoxeter,United Kingdom (UK),GBP,607134,2022-01-04 12:06,20.25,1
+sheila,paolinelli,flanagansheila@aol.com,BT33 0DX, +44 2843724794,Newcastle,United Kingdom (UK),GBP,607131,2022-01-04 11:53,48.333333,1
+Andrea,Mcdonald,amcd2843@gmail.com,BT66 6EL,07811 847271,Craigavon,United Kingdom (UK),GBP,607128,2022-01-04 11:50,22125,1
+Oli,Davis,olidavis_6@hotmail.com,TQ12 3SH,7860852707,Newton Abbot,United Kingdom (UK),GBP,607121,2022-01-04 11:36,30,1
+Watts,Sian,sian_m_watts@yahoo.co.uk,NP44 1FR,7581366860,Cwmbran,United Kingdom (UK),GBP,607120,2022-01-04 11:33,9.166667,1
+Watts,Sian,sian_m_watts@yahoo.co.uk,NP44 1FR,7581366860,Cwmbran,United Kingdom (UK),GBP,607120,2022-01-04 11:33,9.166667,1
+Watts,Sian,sian_m_watts@yahoo.co.uk,NP44 1FR,7581366860,Cwmbran,United Kingdom (UK),GBP,607120,2022-01-04 11:33,9.166667,1
+Jenna,Conroy,jennaelizabeth.conroy@gmail.com,G72 0JH, +44 7920 165407,Glasgow,United Kingdom (UK),GBP,607117,2022-01-04 11:02,15.833333,1
+kirsty,Cooke,k.tallett@yahoo.com,LE16 9DR, +44 7775419596,Market Harborough,United Kingdom (UK),GBP,607115,2022-01-04 10:56,9.166667,1
+Samantha,Hall,samhall73@yahoo.co.uk,CH66 4UF,7903497660,Ellesmere Port,United Kingdom (UK),GBP,607114,2022-01-04 10:44,29625,1
+Samantha,Hall,samhall73@yahoo.co.uk,CH66 4UF,7903497660,Ellesmere Port,United Kingdom (UK),GBP,607114,2022-01-04 10:44,39,1
+Lauren,Gardner,laureng61@hotmail.co.uk,NE34 0DY,7544321526,South Shields,United Kingdom (UK),GBP,607113,2022-01-04 10:34,23.333333,1
+Kerys,Winstone,kerysmae@icloud.com,WS11 4AP,,Cannock,United Kingdom (UK),GBP,607112,2022-01-04 10:27,0,1
+Jo,Rhodes,charliewagtail@aol.com,PL27 7XB,7843783492,Wadebridge,United Kingdom (UK),GBP,607110,2022-01-04 10:24,11.25,1
+Hannah,Jefferson,hlmac@hotmail.co.uk,TS7 8QF,7939269498,"Marton-in-Cleveland, Middlesbrough",United Kingdom (UK),GBP,607109,2022-01-04 10:24,10.833333,1
+Hannah,Jefferson,hlmac@hotmail.co.uk,TS7 8QF,7939269498,"Marton-in-Cleveland, Middlesbrough",United Kingdom (UK),GBP,607109,2022-01-04 10:24,31.25,1
+Amy,Bates,aims90@btinternet.com,LE6 0HA, +44 1530243509,Leicester,United Kingdom (UK),GBP,607108,2022-01-04 10:23,29.166667,1
+Amy,Bates,aims90@btinternet.com,LE6 0HA, +44 1530243509,Leicester,United Kingdom (UK),GBP,607108,2022-01-04 10:23,16.666667,1
+Camilla,Palmer,camilla@consultcamilla.co.uk,SO22 5BU,07711 823028,Winchester,United Kingdom (UK),GBP,607107,2022-01-04 10:19,18.333333,2
+Sheena,Davidson,sheenad123@yahoo.co.uk,NP10 8EN,7557508121,Newport,United Kingdom (UK),GBP,607105,2022-01-04 09:52,25.416667,1
+jacky,magee,jackymagee4@gmail.com,GL56 9LA,7495689363,Moreton-In-Marsh,United Kingdom (UK),GBP,607104,2022-01-04 09:42,12.5,1
+Joelle,Stephenson,joelle.stephenson@yahoo.com,NE23 2QQ,7845556177,Cramlington,United Kingdom (UK),GBP,607100,2022-01-04 08:56,24.583333,1
+andrea,bramley,mrsbrammaz@talktalk.net,NE24 5AH, +44 1670365065,Blyth,United Kingdom (UK),GBP,607099,2022-01-04 08:32,19.833333,1
+callie,willott,callie_20@hotmail.co.uk,LE7 7DX, +44 1162359761,Leicester,United Kingdom (UK),GBP,607098,2022-01-04 08:07,8.25,1
+Mrs,Leanne,leannecrosby@hotmail.co.uk,NE63 9GD,7725029800,Ashington,United Kingdom (UK),GBP,607097,2022-01-04 07:56,27.5,1
+Mrs,Leanne,leannecrosby@hotmail.co.uk,NE63 9GD,7725029800,Ashington,United Kingdom (UK),GBP,607097,2022-01-04 07:56,13.333333,1
+Julie,Fountain,julie_anng@hotmail.com,CT2 0EF,7841507879,Canterbury,United Kingdom (UK),GBP,607096,2022-01-04 07:06,11.666667,1
+Laura,Barnes,laurabrown87@icloud.com,BH9 3PS,7762627240,Bournemouth,United Kingdom (UK),GBP,607094,2022-01-04 06:56,18.75,1
+Julie,Maher,julesmaher@outlook.com,NN6 0JX,07811 212792,Northampton,United Kingdom (UK),GBP,607093,2022-01-04 06:11,21.25,1
+Tracey,Wannell,tracey.wannell1@gmail.com,CF63 2AP,7812004035,Barry,United Kingdom (UK),GBP,607090,2022-01-04 02:19,30.416667,1
+Deborah,Smith,deby65@hotmail.co.uk,BT19 6BN,7870764333,Bangor,United Kingdom (UK),GBP,607088,2022-01-04 01:43,18.333333,1
+Teigan,Fuller,teigan.fuller01@icloud.com,DN33 3AD,447517740465,Grimsby,United Kingdom (UK),GBP,607085,2022-01-04 00:47,12.5,1
+Caron,Noble,caron.pennycook@yahoo.co.uk,EH54 6JT,7950327615,Livingston,United Kingdom (UK),GBP,607084,2022-01-04 00:34,23.333333,1
+Beverley,Baldwin,beverleybaldwin@msn.com,PO9 1LW,749189446,Havant,United Kingdom (UK),GBP,607083,2022-01-04 00:30,32.5,1
+Antoinette,Oneil,a-oneil@outlook.com,NE3 3ST, +44 7423551295,Newcastle Upon Tyne,United Kingdom (UK),GBP,607081,2022-01-03 23:51,22.5,1
+Clare,Wildie,clarewildie@live.co.uk,WF4 1HN, +44 7527270324,Wakefield,United Kingdom (UK),GBP,607080,2022-01-03 23:15,9.166667,1
+emma,knightly,emmaknightly111@hotmail.co.uk,NR33 0RQ, +44 7792008366,Lowestoft,United Kingdom (UK),GBP,607079,2022-01-03 23:07,22.5,1
+Jade ,Spalding,angeljj1213@gmail.com,EH33 2QH,1875613477,Tranent,United Kingdom (UK),GBP,607078,2022-01-03 22:51,19.166667,1
+Emma ,Cole ,embemc@aol.com,CR5 2JP,7736307609,Coulsdon,United Kingdom (UK),GBP,607077,2022-01-03 22:51,30,1
+haval,oacar,havaloscar59@gmail.com,s61th,447407045420,sheffeild,United Kingdom (UK),GBP,607074,2022-01-03 22:27,48.333333,2
+sabrina,hallett,sabrinahallett123@gmail.com,BT18 9NU,7437499126,Holywood,United Kingdom (UK),GBP,607073,2022-01-03 22:15,21.666667,1
+Debbie,Hill,debbie.hill@yahoo.co.uk,NN3 3QE,447730965063,Northampton,United Kingdom (UK),GBP,607070,2022-01-03 21:59,26.666667,1
+Nicola,Howe,Nic220487@aol.com,GU21 3JZ,7889405003,Woking,United Kingdom (UK),GBP,607068,2022-01-03 21:50,18.333333,1
+leanne,fisher,leannewayne@googlemail.com,ME5 8RJ, +44 7775934820,Chatham,United Kingdom (UK),GBP,607067,2022-01-03 21:39,31.5,1
+Francesca,Mitchell,fmazz230586@gmail.com,SN2 2PA,7827912717,Swindon,United Kingdom (UK),GBP,607066,2022-01-03 21:35,19.166667,1
+Holly,Nihill,hollyanne-x@live.co.uk,PR5 6YS, +44 7875341451,Preston,United Kingdom (UK),GBP,607064,2022-01-03 21:32,25,1
+Holly,Nihill,hollyanne-x@live.co.uk,PR5 6YS, +44 7875341451,Preston,United Kingdom (UK),GBP,607064,2022-01-03 21:32,25,1
+Roxy,Tilbury,roxyheart1@yahoo.co.uk,ME10 2LG,7745187331,Sittingbourne,United Kingdom (UK),GBP,607063,2022-01-03 21:32,23.333333,1
+Rebecca,Hewitson,beckyhewitson@hotmail.co.uk,L36 0XB,7805718615,Liverpool,United Kingdom (UK),GBP,607060,2022-01-03 21:22,28.333333,1
+Demi,Stokes-Aston,demistokesaston@outlook.com,RH6 9NJ,7471874403,Horley,United Kingdom (UK),GBP,607058,2022-01-03 21:10,12.5,1
+Hannah,Weaver,weaverhannah10@gmail.com,LL12 8UA, +44 7543066813,Wrexham,United Kingdom (UK),GBP,607057,2022-01-03 21:09,22.5,2
+Hannah,Weaver,weaverhannah10@gmail.com,LL12 8UA, +44 7543066813,Wrexham,United Kingdom (UK),GBP,607057,2022-01-03 21:09,9375,1
+beverley,newman,Beverley.Newman@ymail.com,NR26 8QG, +44 1263824764,Sheringham,United Kingdom (UK),GBP,607054,2022-01-03 20:56,9.166667,1
+beverley,newman,Beverley.Newman@ymail.com,NR26 8QG, +44 1263824764,Sheringham,United Kingdom (UK),GBP,607054,2022-01-03 20:56,9.166667,1
+beverley,newman,Beverley.Newman@ymail.com,NR26 8QG, +44 1263824764,Sheringham,United Kingdom (UK),GBP,607054,2022-01-03 20:56,9.166667,1
+beverley,newman,Beverley.Newman@ymail.com,NR26 8QG, +44 1263824764,Sheringham,United Kingdom (UK),GBP,607054,2022-01-03 20:56,16.666667,1
+Katherine,Hughes,katpetch2@gmail.com,WN7 2EP,7717206435,Leigh,United Kingdom (UK),GBP,607053,2022-01-03 20:55,19.166667,1
+Alison,Appleby,alison.appleby@btinternet.com,NE63 8XX,7785567426,Ashington,United Kingdom (UK),GBP,607052,2022-01-03 20:43,20.833333,1
+Alison,Appleby,alison.appleby@btinternet.com,NE63 8XX,7785567426,Ashington,United Kingdom (UK),GBP,607052,2022-01-03 20:43,19.166667,1
+Rabia,Hussain,rabia.hussain1@yahoo.co.uk,BD8 9JX,7971089955,Bradford,United Kingdom (UK),GBP,607051,2022-01-03 20:40,20.833333,1
+Naomi,Robertson,naomirobertson@hotmail.co.uk,GL4 0TY,7545832196,Gloucester,United Kingdom (UK),GBP,607050,2022-01-03 20:40,10.833333,1
+Adele,Glaves,adel.spalding@sky.com,S20 4tj,7531852164,Sheffield,United Kingdom (UK),GBP,607049,2022-01-03 20:38,18.333333,1
+Clare,Fisher,clob2709@hotmail.com,CO10 0UX, +44 1787372225,Sudbury,United Kingdom (UK),GBP,607048,2022-01-03 20:37,18.75,1
+Helen,Adams,adamsh@hotmail.co.uk,EX1 3DL,7889816434,Exeter,United Kingdom (UK),GBP,607047,2022-01-03 20:32,9.166667,1
+Nina,Stern Jeraj,Nina.stern25@gmail.com,4000,38640605561,Kranj,Slovenia,GBP,607043,2022-01-03 20:07,25.416667,1
+LeAh,Cowell,leahcowelll@hotmail.com,WN8 6TY,447484851130,Skelmersdale,United Kingdom (UK),GBP,607039,2022-01-03 19:47,18.333333,1
+Sarah,Naylor,sarahnaylor27@googlemail.com,BD13 2BS,7881956321,Bradford,United Kingdom (UK),GBP,607037,2022-01-03 19:43,22.5,1
+Maddy,Eldred,15eldred_m@bexleygs.co.uk,DA15 7JP,7716205684,Sidcup,United Kingdom (UK),GBP,607036,2022-01-03 19:37,23.75,1
+Janka,Dustan,dustanga@aol.co.uk,PL5 3US,7517449623,Plymouth,United Kingdom (UK),GBP,607033,2022-01-03 19:27,9.166667,1
+Jackie,Barber,jackiemartinmail@gmail.com,WF8 2BH, +44 7885823163,Pontefract,United Kingdom (UK),GBP,607032,2022-01-03 19:25,22.5,1
+Jessica,Martin,jessicamartin78@gmail.com,NR18 9HL, +44 7760171622,Wymondham,United Kingdom (UK),GBP,607031,2022-01-03 19:23,14.583333,1
+Stacey,Goodchild,stacepaul.goodchild@googlemail.com,IP1 5QG,07540 801466,Ipswich,United Kingdom (UK),GBP,607030,2022-01-03 19:14,31.25,1
+Will,Culshaw,will_knotts@yahoo.co.uk,LS13 3NS,7590430575,Leeds,United Kingdom (UK),GBP,607023,2022-01-03 18:42,14.166667,1
+Jane,Collinson,jecollinson@aol.com,GU14 8NU,7796784152,Farnborough,United Kingdom (UK),GBP,607022,2022-01-03 18:33,16.666667,1
+Lisa,Varney,durvar36@aol.com,EN11 0QN,7742426719,Hoddesdon,United Kingdom (UK),GBP,607021,2022-01-03 18:31,20.833333,1
+Leanne,Dix,dix_a@sky.com,BA3 3UJ,7595325984,Radstock,United Kingdom (UK),GBP,607018,2022-01-03 18:17,14.166667,1
+Rebecca,Richards,rebeccajevans1@gmail.com,WS4 1NU,7866671359,Walsall,United Kingdom (UK),GBP,607017,2022-01-03 18:05,10.416667,1
+Liza,Elston,lizaelston@hotmail.co.uk,CF40 2AB, +44 7795077192,Tonypandy,United Kingdom (UK),GBP,607013,2022-01-03 17:44,42.5,1
+Amanda,Norris,amanda.an394@gmail.com,CT18 7LY, +44 1303240431,Folkestone,United Kingdom (UK),GBP,607012,2022-01-03 17:37,9.166667,1
+Jo,Ruzicka,Mrsruz@sky.com,RH15 9RF,7738162152,Burgess Hill,United Kingdom (UK),GBP,607010,2022-01-03 17:25,12.5,1
+Amanda,Dixon,llewellyndixon@aol.com,OL2 7RH,1706847760,OLDHAM,United Kingdom (UK),GBP,607009,2022-01-03 17:24,17.5,1
+Scott,Watson,watson1992@hotmail.co.uk,NE5 3RA, +44 7306647906,Newcastle Upon Tyne,United Kingdom (UK),GBP,607008,2022-01-03 17:09,20.25,1
+jane,wheatley,jane.wheatley@ntlworld.com,SK8 7AW, +44 7775802286,Cheadle hulme,United Kingdom (UK),GBP,607007,2022-01-03 17:09,22.5,1
+Niamh,Nolan,niamh2009@gmail.com,K78 DH60, +353 0857026176,County Dublin,Ireland,GBP,607006,2022-01-03 17:08,45.833333,1
+DEBORAH,AUTY,devilese@btinternet.com,S75 5DL, +44 7973257958,Barnsley,United Kingdom (UK),GBP,607005,2022-01-03 17:01,20.25,1
+DEBORAH,AUTY,devilese@btinternet.com,S75 5DL, +44 7973257958,Barnsley,United Kingdom (UK),GBP,607005,2022-01-03 17:01,20625,1
+Margaret,Blackwell,blackwell.m1818@gmail.com,NE23 7TR, +44 7798825144,Seghill Cramlington,United Kingdom (UK),GBP,607001,2022-01-03 16:59,28.75,1
+Kate,Carwardine-Palmer,kate.cp@btinternet.com,OX9 3QW,7874048661,Thame,United Kingdom (UK),GBP,607000,2022-01-03 16:38,9.166667,1
+Helen,Wardle,helen@kwsystems.co.uk,PL9 8JR,7772236362,Plymouth,United Kingdom (UK),GBP,606999,2022-01-03 16:38,31.25,1
+Julianna,Krisztina,iulianacristina93@gmail.com,ST6 4BL,7783789288,Stoke-on-trent,United Kingdom (UK),GBP,606998,2022-01-03 16:34,21.666667,1
+clare,Thornhill,clarejoan@hotmail.com,TF5 0NE, +44 7808268379,Telford,United Kingdom (UK),GBP,606997,2022-01-03 16:34,9.166667,1
+clare,Thornhill,clarejoan@hotmail.com,TF5 0NE, +44 7808268379,Telford,United Kingdom (UK),GBP,606997,2022-01-03 16:34,9.166667,1
+lucy marie,mccarthy,lucyleemccarthy@yahoo.co.uk,SA10 6TH, +44 1792425740,Neath,United Kingdom (UK),GBP,606995,2022-01-03 16:21,10.833333,1
+Sonya,Simpson,sonya.w.simpson@btinternet.com,WR2 5TW, +44 7539300461,Worcester,United Kingdom (UK),GBP,606994,2022-01-03 16:04,15,1
+Charlotte,Meneely,charlottemeneely@mail.com,YO51 9PA,447485101023,York,United Kingdom (UK),GBP,606992,2022-01-03 15:52,33.333333,1
+Laura,Lucas,Lauraburke490@yahoo.co.uk,L4 4HT,7762181505,LIVERPOOL,United Kingdom (UK),GBP,606991,2022-01-03 15:51,26.666667,1
+Michelle,Ashton,piperashton24@gmail.com,LA9 4SF, +44 7757243259,Kendal,United Kingdom (UK),GBP,606990,2022-01-03 15:38,20.416667,1
+Emma,Rogers,emmarogers1981@hotmail.co.uk,MK43 9RL,7849773933,Bedford,United Kingdom (UK),GBP,606989,2022-01-03 15:28,35.833333,1
+Stephanie,Jackson,stephaniejackson23@hotmail.com,PA3 3FE,07592 282644,Paisley,United Kingdom (UK),GBP,606988,2022-01-03 15:25,23.75,1
+k,Brown,kirstyklb88@icloud.com,CM9 6GL, +44 7581141780,Maldon,United Kingdom (UK),GBP,606987,2022-01-03 15:24,9.166667,1
+Jennifer,Green,jengreen8011@gmail.com,NN3 8YD,447773105791,NORTHAMPTON,United Kingdom (UK),GBP,606985,2022-01-03 15:07,9.166667,1
+P,MORTON,paulamorton1@icloud.com,SG5 3SL,7958577805,Hitchin,United Kingdom (UK),GBP,606984,2022-01-03 15:06,16875,1
+Natalie,Marsden,natmarsden@hotmail.co.uk,TN2 4ES,7711039982,Tunbridge Wells,United Kingdom (UK),GBP,606982,2022-01-03 14:33,10,1
+Natalie,Marsden,natmarsden@hotmail.co.uk,TN2 4ES,7711039982,Tunbridge Wells,United Kingdom (UK),GBP,606982,2022-01-03 14:33,11.666667,1
+Georgina,Seymour,georgina.seymour@hotmail.co.uk,RG14 5LA, +44 163541672,Newbury,United Kingdom (UK),GBP,606980,2022-01-03 14:17,10.416667,1
+Sharon,Taylor,sharon.taylor9798@gmail.com,EX4 7JJ,07977 129711,Exeter,United Kingdom (UK),GBP,606977,2022-01-03 13:57,22.5,1
+Ann,Pelham,ann@pelham.me.uk,N12 0DG,7511785111,London,United Kingdom (UK),GBP,606976,2022-01-03 13:39,18.75,1
+Ann,Pelham,ann@pelham.me.uk,N12 0DG,7511785111,London,United Kingdom (UK),GBP,606976,2022-01-03 13:39,18.75,1
+Ann,Pelham,ann@pelham.me.uk,N12 0DG,7511785111,London,United Kingdom (UK),GBP,606976,2022-01-03 13:39,23.75,1
+Emma,Smith,emmathims@googlemail.com,OX11 0SY,7870746479,Didcot,United Kingdom (UK),GBP,606975,2022-01-03 13:36,40.416667,1
+Tracey,Johnson,trace-le-bonce@sky.com,PE30 2QJ,7427689772,King's Lynn,United Kingdom (UK),GBP,606974,2022-01-03 13:21,18.333333,1
+Tessa,Beaumont,tessabeaumont1@outlook.com,CB2 8DS,7546534622,Cambridge,United Kingdom (UK),GBP,606970,2022-01-03 12:33,20.833333,1
+Tessa,Beaumont,tessabeaumont1@outlook.com,CB2 8DS,7546534622,Cambridge,United Kingdom (UK),GBP,606970,2022-01-03 12:33,22.916667,1
+Nicola,Hackett,nikkihackett21@hotmail.co.uk,SS3 9BB,7539937884,Southend-on-sea,United Kingdom (UK),GBP,606968,2022-01-03 12:12,28.05,1
+Nicola,Hackett,nikkihackett21@hotmail.co.uk,SS3 9BB,7539937884,Southend-on-sea,United Kingdom (UK),GBP,606968,2022-01-03 12:12,6.391667,1
+Nicola,Hackett,nikkihackett21@hotmail.co.uk,SS3 9BB,7539937884,Southend-on-sea,United Kingdom (UK),GBP,606968,2022-01-03 12:12,6.391667,1
+sarah,needham,sez_3@hotmail.com,LE12 6LW, +44 1509620157,Loughborough,United Kingdom (UK),GBP,606965,2022-01-03 11:29,37875,1
+Sharon,Clough,smclough1957@gmail.com,PE12 0NP,7925400089,"Gedney Hill, Nr Spalding",United Kingdom (UK),GBP,606964,2022-01-03 11:24,25875,1
+Claire,Larkman,c_larkman@hotmail.co.uk,HA5 3EX,7919372820,Pinner,United Kingdom (UK),GBP,606963,2022-01-03 11:17,28.333333,1
+Claire,Larkman,c_larkman@hotmail.co.uk,HA5 3EX,7919372820,Pinner,United Kingdom (UK),GBP,606963,2022-01-03 11:17,28.333333,1
+Ceri,Hardman,ceri.hardman1@hotmail.co.uk,SA10 8AX,7932080422,Neath,United Kingdom (UK),GBP,606962,2022-01-03 11:11,17.916667,1
+Charlotte,Grice,char_fawcett@hotmail.co.uk,HP5 3HB,07471 945478,Chesham,United Kingdom (UK),GBP,606961,2022-01-03 11:11,12.5,1
+Mica Louise,Howe,MLHowe89@outlook.com,L34 1AH, +44 7525723706,Prescot,United Kingdom (UK),GBP,606960,2022-01-03 11:06,24.166667,1
+Rachel,Sheehan,rachelsheehan1@hotmail.co.uk,CV2 2AF, +44 7771896711,Coventry,United Kingdom (UK),GBP,606958,2022-01-03 10:58,20.25,1
+Rachel,Sheehan,rachelsheehan1@hotmail.co.uk,CV2 2AF, +44 7771896711,Coventry,United Kingdom (UK),GBP,606958,2022-01-03 10:58,11.25,1
+Gemma,Heydon,gemmabailey_83@hotmail.com,OL3 5PT,7867886900,Oldham,United Kingdom (UK),GBP,606957,2022-01-03 10:41,22.5,1
+Alexandra,Pinter,pinteralexandraanna@gmail.com,6720,36307692336,Szeged,Hungary,GBP,606955,2022-01-03 10:24,15625,1
+Kerry,Bloodworth,kerryb0701@gmail.com,PE6 8BS,7590335118,Peterborough,United Kingdom (UK),GBP,606954,2022-01-03 10:18,14.166667,1
+Ciara,Mant,ciaraburford@hotmail.com,WS13 6QH,7971695279,Lichfield,United Kingdom (UK),GBP,606953,2022-01-03 10:00,22.5,1
+Joe,Creamer,joe.creamer@hotmail.co.uk,CM2 8SA,7568533483,Chelmsford,United Kingdom (UK),GBP,606951,2022-01-03 09:56,28125,1
+Katie,Wall,thewalls2012@gmail.com,NN3 7BD, +44 7793868325,Northampton,United Kingdom (UK),GBP,606949,2022-01-03 09:18,14.583333,1
+Rachel,Biddles,rachel.biddles@ntlworld.com,LE12 9HJ,7811113749,Loughborough,United Kingdom (UK),GBP,606948,2022-01-03 09:14,13.333333,1
+Rachael,Wilson,raccasteve@sky.com,B78 3PR,7881560262,Tamworth,United Kingdom (UK),GBP,606947,2022-01-03 09:13,29.583333,1
+Clare,Chinnock,claremckenzie@hotmail.com,PE8 6AY, +44 7414114418,Peterborough,United Kingdom (UK),GBP,606945,2022-01-03 08:15,12.5,1
+Clare,Chinnock,claremckenzie@hotmail.com,PE8 6AY, +44 7414114418,Peterborough,United Kingdom (UK),GBP,606945,2022-01-03 08:15,12.5,1
+Sandra,Bowden,sandrabowden73@gmail.com,IP32 7PF, +44 1284725651,Bury St. Edmunds,United Kingdom (UK),GBP,606944,2022-01-03 06:53,16.666667,2
+Sandra,Bowden,sandrabowden73@gmail.com,IP32 7PF, +44 1284725651,Bury St. Edmunds,United Kingdom (UK),GBP,606944,2022-01-03 06:53,12.083333,1
+Sandra,Bowden,sandrabowden73@gmail.com,IP32 7PF, +44 1284725651,Bury St. Edmunds,United Kingdom (UK),GBP,606944,2022-01-03 06:53,12.083333,1
+Pauline,O Brien ,paulinemcgowan151@yahoo.ie,,353852121752,Cork ,Ireland,GBP,606943,2022-01-03 05:59,60.833333,1
+Kylie,Squirrell,ktimmins07@hotmail.com,NR10 5JR,7810282042,Norwich,United Kingdom (UK),GBP,606935,2022-01-03 00:51,12.5,1
+Gemma,Catherall,petegemma.catherall@gmail.com,CH5 4FX, +44 7515375086,Deeside,United Kingdom (UK),GBP,606934,2022-01-03 00:35,10.833333,1
+Beth,Wade,Bethlauren225@yahoo.com,CV23 9GB,07783 529066,Rugby,United Kingdom (UK),GBP,606932,2022-01-02 23:32,20.833333,1
+Gemma,Manners,Mistykat90@gmail.com,UB2 4UR, +44 2088430361,Southall,United Kingdom (UK),GBP,606930,2022-01-02 23:25,23.75,1
+Gemma,Manners,Mistykat90@gmail.com,UB2 4UR, +44 2088430361,Southall,United Kingdom (UK),GBP,606930,2022-01-02 23:25,47.5,2
+Gemma,Manners,Mistykat90@gmail.com,UB2 4UR, +44 2088430361,Southall,United Kingdom (UK),GBP,606930,2022-01-02 23:25,23.75,1
+Deana,Daniels,deanarogers@hotmail.co.uk,B32 3RJ, +44 7966428051,Birmingham,United Kingdom (UK),GBP,606929,2022-01-02 23:22,21.25,1
+Amanda,Bolland,amandabolland@aol.com,RH12 5NY,7736451958,Horsham,United Kingdom (UK),GBP,606928,2022-01-02 23:21,19.833333,1
+Kathleen,Crossan,katiecrossan1_6@live.co.uk,PA2 7ED, +44 1415691160,Paisley,United Kingdom (UK),GBP,606927,2022-01-02 23:21,14.166667,1
+Carolyn,Wilbraham,cdwilbraham@gmail.con,CB9 0JY,7398251028,Haverhill,United Kingdom (UK),GBP,606925,2022-01-02 23:03,15,1
+Samantha,Marshall-fox,sam_m_fox91@hotmail.co.uk,NW5 4AP,7943231135,London,United Kingdom (UK),GBP,606922,2022-01-02 22:48,22.5,1
+Samantha,Marshall-fox,sam_m_fox91@hotmail.co.uk,NW5 4AP,7943231135,London,United Kingdom (UK),GBP,606922,2022-01-02 22:48,48.333333,2
+Jo,Swift,joanne.rotheram@btinternet.com,PR9 7JA,1704211651,Southport,United Kingdom (UK),GBP,606921,2022-01-02 22:47,10,1
+Jodie,Whittle,lilsmartie90@hotmail.com,CT10 2TR,7708152649,Broadstairs,United Kingdom (UK),GBP,606920,2022-01-02 22:33,24.166667,1
+Claire,Grimes,grimes_claire@yahoo.ie,V94 EH9F,857790534,Limerick,Ireland,GBP,606919,2022-01-02 22:29,27.5,1
+Claire,Grimes,grimes_claire@yahoo.ie,V94 EH9F,857790534,Limerick,Ireland,GBP,606919,2022-01-02 22:29,21.25,1
+Zena,D'Souza,zenad@live.co.uk,WN6 7AR,7706895413,Wigan,United Kingdom (UK),GBP,606918,2022-01-02 22:29,9.166667,1
+Zena,D'Souza,zenad@live.co.uk,WN6 7AR,7706895413,Wigan,United Kingdom (UK),GBP,606918,2022-01-02 22:29,10.416667,1
+Zena,D'Souza,zenad@live.co.uk,WN6 7AR,7706895413,Wigan,United Kingdom (UK),GBP,606918,2022-01-02 22:29,14.583333,1
+Zena,D'Souza,zenad@live.co.uk,WN6 7AR,7706895413,Wigan,United Kingdom (UK),GBP,606918,2022-01-02 22:29,16.666667,1
+Charlie ,Hobby ,charlie-bridgeman@hotmail.co.uk,TA20 1BF,7815672252,Chard,United Kingdom (UK),GBP,606917,2022-01-02 22:28,12.5,1
+Glenn,Merrick,mezzo37@hotmail.co.uk,WF11 0HG, +44 7810824587,Knottingley,United Kingdom (UK),GBP,606916,2022-01-02 22:12,26.666667,1
+Kelly,Bardsley,kellybardsley@yahoo.co.uk,LL18 4BD,7710512019,Rhyl,United Kingdom (UK),GBP,606907,2022-01-02 21:56,22.5,1
+Alina,Burghiu,alina_burghiu@yahoo.com,DE55 3BF,7535971665,South Normanton,United Kingdom (UK),GBP,606906,2022-01-02 21:55,25.833333,1
+Jessica ,Brown,jess1302@hotmail.co.uk,SM7 3BJ,7740184711,Banstead,United Kingdom (UK),GBP,606905,2022-01-02 21:52,21.666667,1
+Jessica ,Brown,jess1302@hotmail.co.uk,SM7 3BJ,7740184711,Banstead,United Kingdom (UK),GBP,606905,2022-01-02 21:52,30,1
+Somera,Nawaz,samie_khan@outlook.com,B25 8SB,7578807992,Birmingham,United Kingdom (UK),GBP,606904,2022-01-02 21:44,22.5,2
+Samantha,Farmer,samanthafarmer@btinternet.com,CV9 2FD,7706974046,Atherstone,United Kingdom (UK),GBP,606899,2022-01-02 21:23,25125,1
+Nicola,Clack,nikkiwootton80@gmail.com,HP7 0NU,7484857690,Amersham,United Kingdom (UK),GBP,606895,2022-01-02 20:56,31.666667,1
+Megan,Austin,meganaustin_92@hotmail.co.uk,L14 7NA,7921839242,Liverpool,United Kingdom (UK),GBP,606894,2022-01-02 20:53,17.083333,1
+Nicola,Gilbert,nicg1979@hotmail.co.uk,NP4 5EG,447973534263,Pontypool,United Kingdom (UK),GBP,606893,2022-01-02 20:48,15625,1
+Laura,Warne,laura_warne@live.co.uk,PE16 6RG, +44 7912449707,Chatteris,United Kingdom (UK),GBP,606892,2022-01-02 20:46,8.25,1
+Ellissia,Davis,ellissiadavis@yahoo.co.uk,CT6 5JQ,7710442762,Herne Bay,United Kingdom (UK),GBP,606891,2022-01-02 20:40,14.166667,1
+Ellissia,Davis,ellissiadavis@yahoo.co.uk,CT6 5JQ,7710442762,Herne Bay,United Kingdom (UK),GBP,606891,2022-01-02 20:40,10.833333,1
+Lucy,Ozanne,ozannelucy@googlemail.com,WA3 5DS,7883891859,Warrington,United Kingdom (UK),GBP,606890,2022-01-02 20:33,15,1
+Eliza,Gibbons,elizamgibbons@hotmail.com,GU51 5SW,07763 694813,Fleet,United Kingdom (UK),GBP,606886,2022-01-02 20:19,35.833333,1
+Jane,Satchell,jane_satchell@hotmail.co.uk,E12 6SR,7913307260,London,United Kingdom (UK),GBP,606885,2022-01-02 20:14,28.5,1
+Jane,Satchell,jane_satchell@hotmail.co.uk,E12 6SR,7913307260,London,United Kingdom (UK),GBP,606885,2022-01-02 20:14,35.25,1
+Sally,Bardsley,sallybardsley@btinternet.com,RH19 3UD,447702531105,East Grinstead,United Kingdom (UK),GBP,606882,2022-01-02 19:59,20.25,1
+Stacey,Anderson,stacey4981@icloud.com,YO24 3HR,447824395074,York,United Kingdom (UK),GBP,606881,2022-01-02 19:53,37.916667,1
+Christine,Warner,chrissy_warner@hotmail.co.uk,NN15 5UN,7986228949,Kettering,United Kingdom (UK),GBP,606880,2022-01-02 19:42,9.166667,1
+Bernice,Dunne,bernicedunne@yahoo.com,A67 NF77, +353 868797621,Wicklow town,Ireland,GBP,606879,2022-01-02 19:41,16.666667,1
+Bernice,Dunne,bernicedunne@yahoo.com,A67 NF77, +353 868797621,Wicklow town,Ireland,GBP,606879,2022-01-02 19:41,16.666667,1
+Bernice,Dunne,bernicedunne@yahoo.com,A67 NF77, +353 868797621,Wicklow town,Ireland,GBP,606879,2022-01-02 19:41,16.666667,1
+Bernice,Dunne,bernicedunne@yahoo.com,A67 NF77, +353 868797621,Wicklow town,Ireland,GBP,606879,2022-01-02 19:41,16.666667,1
+Bernice,Dunne,bernicedunne@yahoo.com,A67 NF77, +353 868797621,Wicklow town,Ireland,GBP,606879,2022-01-02 19:41,13.333333,1
+Laura,Nam,lauranam16@gmail.com,GU21 8ST, +44 7745536666,Woking,United Kingdom (UK),GBP,606878,2022-01-02 19:39,27.291667,1
+Olivia,Griffiths,olivia_345@hotmail.com,OX17 3JS,7590495200,Banbury,United Kingdom (UK),GBP,606876,2022-01-02 19:22,10.416667,1
+Jane,Hewitt,Chewitt36@hotmail.com,NG11 8JU,7837674541,Nottingham,United Kingdom (UK),GBP,606875,2022-01-02 19:10,9.75,1
+Rebecca,O mahony,rebeccaomahony22@gmail.com,,857776710,Dublin,Ireland,GBP,606874,2022-01-02 19:07,37.5,1
+Kate,Hudson,katekswny@aol.com,CM3 5NE,0,Chelmsford,United Kingdom (UK),GBP,606873,2022-01-02 19:07,20.833333,1
+Kate,Hudson,katekswny@aol.com,CM3 5NE,0,Chelmsford,United Kingdom (UK),GBP,606873,2022-01-02 19:07,20.833333,1
+Paula,Jarvis,paulajarvis1@outlook.com,SA12 8AE, +44 7805776804,Port Talbot,United Kingdom (UK),GBP,606872,2022-01-02 19:03,9.166667,1
+Kate,Hudson,katekswny@aol.com,CM3 5NE,0,Chelmsford,United Kingdom (UK),GBP,606870,2022-01-02 18:56,23.333333,1
+Auntie Sarah,Hopkins,helen.williams85@icloud.com,WS2 7EH,7710256966,Walsall,United Kingdom (UK),GBP,606869,2022-01-02 18:55,9.166667,1
+claire,fitzsimons,cfitzsimons82@googlemail.com,PH33 6HE, +44 7480153052,Fort William,United Kingdom (UK),GBP,606868,2022-01-02 18:39,10.416667,1
+Emily,Sheppard,sheppardemily22@yahoo.co.uk,EX2 7QU, +44 7398256549,Exeter,United Kingdom (UK),GBP,606867,2022-01-02 18:39,24375,1
+claire,walker,clairewalker303030@hotmail.co.uk,BT5 7ED, +44 2890480065,Belfast,United Kingdom (UK),GBP,606863,2022-01-02 18:27,24.583333,1
+Linda,Atkinson,franz_linda@hotmail.co.uk,DT1 1UL,7929454130,Dorchester,United Kingdom (UK),GBP,606862,2022-01-02 18:25,27.083333,1
+Toni,Lodge,tonilodge@talktalk.net,WF4 1JH,7584634460,"New Crofton, Wakefield",United Kingdom (UK),GBP,606861,2022-01-02 18:15,22.5,1
+Maxine,Naylor,maxinenaylor72@gmail.com,NG16 3FT,7546574611,Nottingham,United Kingdom (UK),GBP,606860,2022-01-02 18:06,17.916667,1
+CLAIRE,WHELAN,c1a1rewhelan@hotmail.com,R93 RH51,353868360361,Hacketstown,Ireland,GBP,606857,2022-01-02 17:39,26625,1
+Arleen,Ptolomey,aptolomey@googlemail.com,PA16 8QR,7904570056,Greenock,United Kingdom (UK),GBP,606856,2022-01-02 17:31,17.5,1
+Arleen,Ptolomey,aptolomey@googlemail.com,PA16 8QR,7904570056,Greenock,United Kingdom (UK),GBP,606856,2022-01-02 17:31,24.166667,1
+Miranda,Hales,miranda02@icloud.com,CO7 9PT,7376136164,Colchester,United Kingdom (UK),GBP,606852,2022-01-02 17:23,12.083333,1
+Catherine,sykes,cathsykes@googlemail.com,S18 8NZ, +44 1246419603,Dronfield,United Kingdom (UK),GBP,606851,2022-01-02 17:19,23.333333,1
+Karen,Novelle,kenovelle@outlook.com,SM6 8AA,7775853212,WALLINGTON,United Kingdom (UK),GBP,606850,2022-01-02 17:17,20.833333,1
+Karen,Novelle,kenovelle@outlook.com,SM6 8AA,7775853212,WALLINGTON,United Kingdom (UK),GBP,606850,2022-01-02 17:17,20.833333,1
+Amy,Creel,amy.creel@aol.com,NP13 1HE,7737562751,Abertillery,United Kingdom (UK),GBP,606849,2022-01-02 17:10,12.5,1
+Wendy,Kidd,wenandken@outlook.com,AB51 7HW,7896784069,Inverurie,United Kingdom (UK),GBP,606848,2022-01-02 17:07,28.75,1
+Wendy,Kidd,wenandken@outlook.com,AB51 7HW,7896784069,Inverurie,United Kingdom (UK),GBP,606848,2022-01-02 17:07,28.75,1
+Frederick,Tyler,ftyler56@btinternet.com,SN25 1TA,7794393680,Swindon,United Kingdom (UK),GBP,606847,2022-01-02 17:03,19.166667,1
+Frederick,Tyler,ftyler56@btinternet.com,SN25 1TA,7794393680,Swindon,United Kingdom (UK),GBP,606847,2022-01-02 17:03,21.666667,1
+Karan,Phillips,karanphillips21@hotmail.co.uk,CF63 4HS,7910807188,Barry,United Kingdom (UK),GBP,606844,2022-01-02 16:58,14.166667,1
+Amelia,Jeans,amelia.jeans2@gmail.com,EX17 3QJ,7493015210,Crediton,United Kingdom (UK),GBP,606843,2022-01-02 16:57,9.166667,1
+James,Eyre,j.a.eyre89@gmail.com,WF2 9HS,447742957307,Wakefield,United Kingdom (UK),GBP,606842,2022-01-02 16:52,25,1
+Susan,Holt,susanholt1966@aol.co.uk,WN7 2HU,7909500590,Leigh,United Kingdom (UK),GBP,606839,2022-01-02 16:25,10875,1
+James,Howat,jameshowat221@aol.com,DG2 0EH,7757663453,Dumfries,United Kingdom (UK),GBP,606838,2022-01-02 16:14,12.5,1
+Lauri,Elliott,lauri2577@yahoo.co.uk,NE34 8LJ,7931429509,South Shields,United Kingdom (UK),GBP,606837,2022-01-02 16:10,15.75,1
+Sarah,John,john-s6@sky.com,CF39 9HU,7868727283,PORTH,United Kingdom (UK),GBP,606836,2022-01-02 15:40,17.5,1
+Tracey,Daley,tdaley@rvc.ac.uk,AL7 4TF,1707881353,Welwyn Garden City,United Kingdom (UK),GBP,606835,2022-01-02 15:34,20.833333,1
+Sarah,Newbound,sarahnewbound@aol.com,BR1 2TA,7881387172,Bromley,United Kingdom (UK),GBP,606833,2022-01-02 15:26,21.666667,1
+Amanda,Starkey,a.shenton123@gmail.com,CW5 5JA,7933294653,Nantwich,United Kingdom (UK),GBP,606832,2022-01-02 15:15,22.5,1
+Maddy,Warner,maddywarner2004@outlook.com,PO7 5UT,07359 021235,Waterlooville,United Kingdom (UK),GBP,606831,2022-01-02 15:01,12.5,1
+Jacqueline,Queen,jacquelinequeen@hotmail.co.uk,PA14 6AG,7460091479,Port Glasgow,United Kingdom (UK),GBP,606827,2022-01-02 14:59,27.083333,1
+Kathleen,Cuthell,kathcuthell@talktalk.net,CA7 3DR,1697321235,Wigton,United Kingdom (UK),GBP,606826,2022-01-02 14:41,15,1
+Lauren ,Snell ,lauren.snell91@hotmail.co.uk,NG4 3FX,1159525001,Nottingham,United Kingdom (UK),GBP,606825,2022-01-02 14:30,23.333333,1
+Sue,Reynolds,suereynolds.a1v1eqa@gmail.com,SA67 8SG,7964836422,Narberth,United Kingdom (UK),GBP,606820,2022-01-02 14:12,20.833333,1
+Sue,Reynolds,suereynolds.a1v1eqa@gmail.com,SA67 8SG,7964836422,Narberth,United Kingdom (UK),GBP,606820,2022-01-02 14:12,20.833333,1
+Natalie,Cattell,wkd_boozie_bird@hotmail.co.uk,S21 1AW,7471913454,Sheffield,United Kingdom (UK),GBP,606819,2022-01-02 14:03,20.833333,1
+Natalie,Cattell,wkd_boozie_bird@hotmail.co.uk,S21 1AW,7471913454,Sheffield,United Kingdom (UK),GBP,606819,2022-01-02 14:03,25,1
+Claire,Weston,clairelw1974@gmail.com,DT3 5AR, +44 7791807882,Weymouth,United Kingdom (UK),GBP,606817,2022-01-02 13:36,15,1
+Rebeka,Drew,rebeka1amy1@hotmail.co.uk,DE21 4PH,7807885558,Derby,United Kingdom (UK),GBP,606816,2022-01-02 13:35,30,1
+Andrew,Webb,ajwebb9653@hotmail.co.uk,CF14 6BS,2920625966,Cardiff,United Kingdom (UK),GBP,606815,2022-01-02 13:34,37.916667,1
+Mark,Newman,swannyriver17@icloud.com,GL2 0EN,07903 289992,Gloucester,United Kingdom (UK),GBP,606814,2022-01-02 13:34,19125,1
+Mark,Newman,swannyriver17@icloud.com,GL2 0EN,07903 289992,Gloucester,United Kingdom (UK),GBP,606814,2022-01-02 13:34,17625,1
+Emma,Marsh,emmamarsh22@hotmail.com,L39 7AB,7852454563,Ormskirk,United Kingdom (UK),GBP,606812,2022-01-02 13:21,23.333333,1
+Linda,Nicolson,l.c.nicolson@dundee.ac.uk,DD5 2TU, +44 7847304535,Dundee,United Kingdom (UK),GBP,606811,2022-01-02 13:15,12.5,1
+Ashlee,Herron,herronashlee90@gmail.com,NE23 2BS,7931976508,Cramlington,United Kingdom (UK),GBP,606808,2022-01-02 12:21,13.5,1
+Ashlee,Herron,herronashlee90@gmail.com,NE23 2BS,7931976508,Cramlington,United Kingdom (UK),GBP,606808,2022-01-02 12:21,12,1
+Lorraine,Walsh,lorrainewalsh5@icloud.com,L37 1PE,07795 574865,Liverpool,United Kingdom (UK),GBP,606806,2022-01-02 11:59,39.166667,1
+Jane,Turner,janecturner@live.co.uk,DG1 3FB,7766163619,Dumfries,United Kingdom (UK),GBP,606805,2022-01-02 11:33,11.666667,1
+tina,vescio,tina_2204@hotmail.com,LU2 8AX,7833445300,Luton,United Kingdom (UK),GBP,606804,2022-01-02 11:32,22.5,1
+Aimee,Platt,aimeep28@me.com,PR2 3RS, +44 7870661973,Preston,United Kingdom (UK),GBP,606803,2022-01-02 11:02,22.916667,1
+Lisa,Wilding,lisawilding@yahoo.co.uk,WA7 1GD,7717005184,Runcorn,United Kingdom (UK),GBP,606801,2022-01-02 10:45,20.833333,1
+Manon,Roberts,manonwynroberts@googlemail.com,LL41 3EL, +44 7557685506,Blaenau Ffestiniog,United Kingdom (UK),GBP,606800,2022-01-02 10:44,15,2
+Conor,Lawless,conor.lawless1@googlemail.com,BT33 0DX,7542915007,Newcastle,United Kingdom (UK),GBP,606799,2022-01-02 10:35,25,1
+Conor,Lawless,conor.lawless1@googlemail.com,BT33 0DX,7542915007,Newcastle,United Kingdom (UK),GBP,606799,2022-01-02 10:35,18.75,1
+Conor,Lawless,conor.lawless1@googlemail.com,BT33 0DX,7542915007,Newcastle,United Kingdom (UK),GBP,606799,2022-01-02 10:35,18.75,1
+Allingan,Helen,helenallingan@gmail.com,HX1 3EU, +44 7792263329,Halifax,United Kingdom (UK),GBP,606798,2022-01-02 10:18,27.083333,1
+julie,mcknight,juliemck09@live.co.uk,BT34 5BQ, +44 7753430380,Newry,United Kingdom (UK),GBP,606797,2022-01-02 10:14,27.5,1
+Kim,Marsden,km@theroyal.school,DY6 9BP,7795512926,Kingswinford,United Kingdom (UK),GBP,606796,2022-01-02 10:03,21,1
+Debbie,Allsop,dbballsop1@yahoo.co.uk,DE24 0LZ,7754290436,Derby,United Kingdom (UK),GBP,606795,2022-01-02 09:58,24.583333,1
+Barbarie,Baxter,Barbariebaxter65@gmail.com,CH8 9BN,7384972545,Holywell,United Kingdom (UK),GBP,606794,2022-01-02 09:45,14.166667,1
+Nicola,Stevenson,nstevenson27@hotmail.com,BT34 4NU, +44 2841761029,Newry,United Kingdom (UK),GBP,606793,2022-01-02 09:44,11.25,1
+Melissa,Wild,melwild@hotmail.co.uk,S66 2QN, +44 1709703825,Rotherham,United Kingdom (UK),GBP,606792,2022-01-02 09:41,22.5,2
+Melissa,Wild,melwild@hotmail.co.uk,S66 2QN, +44 1709703825,Rotherham,United Kingdom (UK),GBP,606792,2022-01-02 09:41,9375,1
+Melissa,Wild,melwild@hotmail.co.uk,S66 2QN, +44 1709703825,Rotherham,United Kingdom (UK),GBP,606792,2022-01-02 09:41,9375,1
+Melissa,Wild,melwild@hotmail.co.uk,S66 2QN, +44 1709703825,Rotherham,United Kingdom (UK),GBP,606792,2022-01-02 09:41,6.75,1
+Melissa,Wild,melwild@hotmail.co.uk,S66 2QN, +44 1709703825,Rotherham,United Kingdom (UK),GBP,606792,2022-01-02 09:41,6.75,1
+Rachel,Knowles,rachelclawson@hotmail.co.uk,WF6 1TY,7779966041,Normanton,United Kingdom (UK),GBP,606790,2022-01-02 09:29,11.25,1
+Rachel,Knowles,rachelclawson@hotmail.co.uk,WF6 1TY,7779966041,Normanton,United Kingdom (UK),GBP,606790,2022-01-02 09:29,8.25,1
+Ruth,Drage,ruthiedrage@gmail.com,GU52 8DS,07766 163198,Fleet,United Kingdom (UK),GBP,606789,2022-01-02 08:52,7.5,1
+Ailsa,Young,aeyoung@hotmail.co.uk,KY4 8NT,7857468272,Cowdenbeath,United Kingdom (UK),GBP,606788,2022-01-02 08:46,16.666667,1
+Louise,Clements,louise.clements@hotmail.com,ME5 9QB,07940 938179,Chatham,United Kingdom (UK),GBP,606787,2022-01-02 08:45,25.833333,1
+Jane,Walton,bubblechunks1@hotmail.com,LU6 2LW,7719358248,Dunstable,United Kingdom (UK),GBP,606786,2022-01-02 08:41,26.25,1
+Leanne,Howard,leanne.howard@annacasoodaynursery.co.uk,PE4 5BY,7508039916,Peterborough,United Kingdom (UK),GBP,606785,2022-01-02 08:36,16.666667,1
+Mrs J,Snell,sneljuk@sky.com,AB54 8UZ, +44 1466792950,Huntly,United Kingdom (UK),GBP,606784,2022-01-02 08:30,22.5,1
+Julie ,Phelan,juliephelan1@sky.com,YO7 4SB,7852205564,Thirsk,United Kingdom (UK),GBP,606782,2022-01-02 07:19,12.5,1
+Geraldine,Dyce,dycegeraldine@yahoo.com,G78 2EL, +44 1418804731,Glasgow,United Kingdom (UK),GBP,606778,2022-01-02 04:55,18.466667,1
+Geraldine,Dyce,dycegeraldine@yahoo.com,G78 2EL, +44 1418804731,Glasgow,United Kingdom (UK),GBP,606778,2022-01-02 04:55,6.391667,1
+Geraldine,Dyce,dycegeraldine@yahoo.com,G78 2EL, +44 1418804731,Glasgow,United Kingdom (UK),GBP,606778,2022-01-02 04:55,18.058333,1
+Dekota,Hayhoe,dekotahayhoe1@gmail.com,IP2 8TE,7546323383,Ipswich,United Kingdom (UK),GBP,606774,2022-01-02 01:23,20.25,1
+aine,murphy,ainemurf@hotmail.co.uk,BT34 2HH, +44 7708375323,Newry,United Kingdom (UK),GBP,606772,2022-01-02 00:09,20.833333,1
+Nicola,Roberts,nicky.llysrhedyn@gmail.com,LL11 3DT,447919026086,Wrexham,United Kingdom (UK),GBP,606768,2022-01-01 23:45,19125,1
+Nicola,Roberts,nicky.llysrhedyn@gmail.com,LL11 3DT,447919026086,Wrexham,United Kingdom (UK),GBP,606768,2022-01-01 23:45,94.5,3
+charlotte,Scrivens,scrivkins@gmail.com,B43 7UB, +44 7968348735,Birmingham,United Kingdom (UK),GBP,606765,2022-01-01 23:14,27.083333,1
+Shauna,Ward,shaunamccoy1@hotmail.com,,861577588,Sligo,Ireland,GBP,606764,2022-01-01 23:03,21.25,1
+Sue,Holmes,sueeholmes@yahoo.co.uk,L20 5BE, +44 1514768039,Bootle,United Kingdom (UK),GBP,606760,2022-01-01 22:54,23.333333,1
+SARAH,Hoskin,sarah.bartlett1@hotmail.com,PL12 4UX, +44 1752849162,Saltash,United Kingdom (UK),GBP,606759,2022-01-01 22:36,22.5,1
+Janine,Macon,jmacon66@outlook.com,CV11 4JE,7309720700,Nuneaton,United Kingdom (UK),GBP,606758,2022-01-01 22:30,18.75,1
+Debbie,Torgersen,torgy@liverpool.ac.uk,CH49 3GX,7845292252,Wirral,United Kingdom (UK),GBP,606756,2022-01-01 22:17,6.75,1
+Debbie,Torgersen,torgy@liverpool.ac.uk,CH49 3GX,7845292252,Wirral,United Kingdom (UK),GBP,606756,2022-01-01 22:17,8.25,1
+Kerrie,Foxley,Kerrie6667@sky.com,CH46 6HB,7928225234,Wirral,United Kingdom (UK),GBP,606755,2022-01-01 22:07,16.5,1
+Kerrie,Foxley,Kerrie6667@sky.com,CH46 6HB,7928225234,Wirral,United Kingdom (UK),GBP,606755,2022-01-01 22:07,33,2
+Carol,Wood,carolwood123@icloud.com,B79 0EY,7769228406,Tamworth,United Kingdom (UK),GBP,606752,2022-01-01 21:54,40,4
+Karin,Elliott,karin.vn@hotmail.com,PA9 1BT,7850191636,Johnstone,United Kingdom (UK),GBP,606751,2022-01-01 21:31,9.75,1
+Alexandra,Faux,alexhoe2000@hotmail.com,PE9 3BA, +44 1780740162,Stamford,United Kingdom (UK),GBP,606750,2022-01-01 21:27,25,1
+J,Carter,rite2jo@hotmail.com,LS28 8BY,7843691561,Pudsey,United Kingdom (UK),GBP,606749,2022-01-01 21:09,14.583333,1
+J,Carter,rite2jo@hotmail.com,LS28 8BY,7843691561,Pudsey,United Kingdom (UK),GBP,606749,2022-01-01 21:09,14.583333,1
+J,Carter,rite2jo@hotmail.com,LS28 8BY,7843691561,Pudsey,United Kingdom (UK),GBP,606749,2022-01-01 21:09,14.583333,1
+Hannah,Mattinson,hannahmattinson@hotmail.com,NE27 0LA, +44 792625252,Newcastle Upon Tyne,United Kingdom (UK),GBP,606748,2022-01-01 21:08,20625,1
+Sara,Mulkerrins,saramulk@gmail.com,CM1 6FX,7714669338,Chelmsford,United Kingdom (UK),GBP,606747,2022-01-01 21:07,20.833333,1
+Kirsty,Davison,kirsty.back@live.co.uk,LS12 5RX,7446825796,Leeds,United Kingdom (UK),GBP,606740,2022-01-01 20:56,31.5,1
+Deborah,Mawer,deborah.mawer@icloud.com,PE14 7LH,447498925064,Wisbech,United Kingdom (UK),GBP,606739,2022-01-01 20:53,10.833333,1
+Sian,Phillips,sianady83@aol.com,KY8 5HN,7741209203,Leven,United Kingdom (UK),GBP,606738,2022-01-01 20:45,21.666667,1
+Sian,Phillips,sianady83@aol.com,KY8 5HN,7741209203,Leven,United Kingdom (UK),GBP,606738,2022-01-01 20:45,12.5,1
+Alison,Keighley,steve.keighley@macegroup.com,SN11 9NL,7881504232,Calne,United Kingdom (UK),GBP,606737,2022-01-01 20:44,30,1
+Jaclyn,Mitchell,jaclynmitchell2005@yahoo.co.uk,PA10 2DB, +44 7540567294,Johnstone,United Kingdom (UK),GBP,606736,2022-01-01 20:36,29.166667,1
+Kirsty,Pearn,jimnkirst@gmail.com,ME12 3QZ, +44 7903494999,Sheerness,United Kingdom (UK),GBP,606735,2022-01-01 20:32,11.25,1
+Kirsty,Pearn,jimnkirst@gmail.com,ME12 3QZ, +44 7903494999,Sheerness,United Kingdom (UK),GBP,606735,2022-01-01 20:32,18.333333,1
+Kirsty,Pearn,jimnkirst@gmail.com,ME12 3QZ, +44 7903494999,Sheerness,United Kingdom (UK),GBP,606735,2022-01-01 20:32,12.5,1
+Sandra,Andrew,sandraandrew@btinternet.com,AB53 5YH, +44 7464377148,Turriff,United Kingdom (UK),GBP,606734,2022-01-01 20:20,23.333333,1
+Miss R J,Sibbick,piglet_14_03@hotmail.com,DN35 7LE,7773908243,Cleethorpes,United Kingdom (UK),GBP,606732,2022-01-01 20:17,8.25,1
+Julie,Akers,juliekrose76@gmail.com,PE30 3SB, +44 7775903687,King's Lynn,United Kingdom (UK),GBP,606731,2022-01-01 20:11,16.666667,1
+clare,geeson,claregeeson@hotmail.com,L31 1LB, +44 1515200726,Liverpool,United Kingdom (UK),GBP,606727,2022-01-01 19:51,21.25,1
+ashleigh,smith,ashleigh.smith20@nhs.net,B43 7JH,7837925441,Birmingham,United Kingdom (UK),GBP,606726,2022-01-01 19:50,20,1
+Vanessa,Beers,vbeers30@hotmail.com,NG3 6BS, +44 1159626635,Nottingham,United Kingdom (UK),GBP,606725,2022-01-01 19:47,12.75,1
+Marta,Kevan,mrt.kevan@gmail.com,NG12 3FN,7827123903,Nottingham,United Kingdom (UK),GBP,606724,2022-01-01 19:47,18.75,1
+Sharon,Sloan,sharonsloan14@yahoo.co.uk,TA1 3GG,07977 044252,Taunton,United Kingdom (UK),GBP,606723,2022-01-01 19:43,9.166667,1
+Sharon,Sloan,sharonsloan14@yahoo.co.uk,TA1 3GG,07977 044252,Taunton,United Kingdom (UK),GBP,606723,2022-01-01 19:43,13.333333,1
+Lianne,Spillane,lianne.moir@outlook.com,NN10 0SH,7715999182,Rushden,United Kingdom (UK),GBP,606722,2022-01-01 19:39,27.5,1
+Katie,Sugden,katiesugden04@hotmail.com,HU12 9TL,447498721547,Hull,United Kingdom (UK),GBP,606721,2022-01-01 19:37,19.583333,1
+Jessica,Whight,jess.whight@outlook.com,IP4 2HL,7895497402,Ipswich,United Kingdom (UK),GBP,606717,2022-01-01 19:33,33.333333,1
+Claire,Ryland,clairerock1980@hotmail.co.uk,B98 8QF,7825829603,Redditch,United Kingdom (UK),GBP,606716,2022-01-01 19:32,24.583333,1
+Kimberley,Sutherland,kimberleysutherland@hotmail.co.uk,PA1 1RG, +44 7981190556,Paisley,United Kingdom (UK),GBP,606711,2022-01-01 19:16,10.416667,1
+Victoria,Brunt,vicki.brunt@nhs.net,S35 9WG,7840392028,Sheffield,United Kingdom (UK),GBP,606710,2022-01-01 19:04,12.5,1
+Lisa,Dacostak,dacosta.lisa@yahoo.co.uk,WD4 8DG,7590813528,Kings Langley,United Kingdom (UK),GBP,606708,2022-01-01 18:28,15.416667,1
+Amanda,Peck,amanda.peck1@nhs.net,S64 0HU,7806788873,Mexborough,United Kingdom (UK),GBP,606707,2022-01-01 18:27,11.25,1
+Elayna,O callaghan,elaynaocallaghan@gmail.com,P51 C6H0,838164206,Mallow,Ireland,GBP,606706,2022-01-01 18:19,29.166667,1
+Kiran,Sharma,sharmak@crispins.co.uk,RG6 3AY, +44 7985119419,Reading,United Kingdom (UK),GBP,606705,2022-01-01 18:01,25.833333,1
+Sharon,Hazlewood,Wilsonsharon20@gmail.com,CA7 2AH,7789772389,Wigton,United Kingdom (UK),GBP,606701,2022-01-01 17:42,9.166667,1
+Sharon,Hazlewood,Wilsonsharon20@gmail.com,CA7 2AH,7789772389,Wigton,United Kingdom (UK),GBP,606701,2022-01-01 17:42,9.166667,1
+Sharon,Hazlewood,Wilsonsharon20@gmail.com,CA7 2AH,7789772389,Wigton,United Kingdom (UK),GBP,606701,2022-01-01 17:42,9.166667,1
+Sharon,Hazlewood,Wilsonsharon20@gmail.com,CA7 2AH,7789772389,Wigton,United Kingdom (UK),GBP,606701,2022-01-01 17:42,7.5,1
+Patricia,Ross,patriciabross@hotmail.co.uk,ML6 9EW,7753215832,Airdrie,United Kingdom (UK),GBP,606700,2022-01-01 17:40,25875,1
+Rachel,Phillips,rachelphillips_90@hotmail.co.uk,NP19 9JR,7375516858,Newport,United Kingdom (UK),GBP,606697,2022-01-01 17:14,13.333333,1
+Rachel,Phillips,rachelphillips_90@hotmail.co.uk,NP19 9JR,7375516858,Newport,United Kingdom (UK),GBP,606697,2022-01-01 17:14,9.166667,1
+Helen,Stevens,helenpstevens@hotmail.co.uk,SM4 5AB,07523 117296,Morden,United Kingdom (UK),GBP,606693,2022-01-01 16:59,35.25,1
+Rosie,Payne,rosiepayne4@hotmail.co.uk,NG4 4WA,7977803623,Nottingham,United Kingdom (UK),GBP,606692,2022-01-01 16:24,9.166667,1
+Jean,Donaldson,weejeannie2@gmail.com,ML6 8NN,1236747696,Airdrie,United Kingdom (UK),GBP,606689,2022-01-01 15:54,15.833333,1
+Tina,Kimberley,bradvue87@gmail.com,MK13 7AH,7795437835,Milton Keynes,United Kingdom (UK),GBP,606688,2022-01-01 15:48,15,1
+Tina,Kimberley,bradvue87@gmail.com,MK13 7AH,7795437835,Milton Keynes,United Kingdom (UK),GBP,606688,2022-01-01 15:48,16.5,1
+Emma,McPartland,emma.mcp2407@gmail.com,TS18 4PU, +44 7725077981,Stockton-on-tees,United Kingdom (UK),GBP,606687,2022-01-01 15:47,26.666667,1
+Claire,Johnsen,claireejohnsen@gmail.com,BN1 2PN,7763047147,Brighton,United Kingdom (UK),GBP,606686,2022-01-01 15:32,16.666667,1
+Jayne,Rudd,splodge1@splodge1.karoo.co.uk,HU4 7AX,1482564159,HULL,United Kingdom (UK),GBP,606685,2022-01-01 15:31,9.166667,1
+Lisa,Kirk,lisa1nusa@hotmail.com,AL3 7JP,7882058824,St. Albans,United Kingdom (UK),GBP,606683,2022-01-01 15:21,33.333333,1
+Lisa,Kirk,lisa1nusa@hotmail.com,AL3 7JP,7882058824,St. Albans,United Kingdom (UK),GBP,606683,2022-01-01 15:21,11.25,1
+carolyn,welham,carriewelham33@yahoo.co.uk,ME18 5DR, +44 1622812967,Maidstone,United Kingdom (UK),GBP,606682,2022-01-01 15:19,18.333333,1
+Ume,Habiba,habiba178178@gmail.com,B11 1PH, +44 7598439103,Birmingham,United Kingdom (UK),GBP,606681,2022-01-01 15:13,39.166667,1
+Kimberley,Walker,lilkim1984@hotmail.com,BN24 6NX,7929056266,Pevensey,United Kingdom (UK),GBP,606679,2022-01-01 14:55,8.25,1
+Kimberley,Walker,lilkim1984@hotmail.com,BN24 6NX,7929056266,Pevensey,United Kingdom (UK),GBP,606679,2022-01-01 14:55,11.25,1
+Kimberley,Walker,lilkim1984@hotmail.com,BN24 6NX,7929056266,Pevensey,United Kingdom (UK),GBP,606679,2022-01-01 14:55,8.25,1
+Kimberley,Walker,lilkim1984@hotmail.com,BN24 6NX,7929056266,Pevensey,United Kingdom (UK),GBP,606679,2022-01-01 14:55,11.25,1
+Kimberley,Walker,lilkim1984@hotmail.com,BN24 6NX,7929056266,Pevensey,United Kingdom (UK),GBP,606679,2022-01-01 14:55,10125,1
+Kimberley,Walker,lilkim1984@hotmail.com,BN24 6NX,7929056266,Pevensey,United Kingdom (UK),GBP,606679,2022-01-01 14:55,11.25,1
+Emma,Fenlon,emmafshop1@yahoo.co.uk,RM15 5QX,7784484353,South Ockendon,United Kingdom (UK),GBP,606678,2022-01-01 14:52,27.5,1
+Helen,Cameron,goldstraw26@gmail.com,ST9 0EX, +44 7580047660,Stoke-on-trent,United Kingdom (UK),GBP,606677,2022-01-01 14:34,22.5,1
+maureen,stevens,mo.stevens61@gmail.com,S70 4QW, +44 7510343454,Barnsley,United Kingdom (UK),GBP,606675,2022-01-01 14:15,20.416667,1
+Jade,McGarvey,Jademcgarvey94@gmail.com,NR33 7AY,7879404377,Lowestoft,United Kingdom (UK),GBP,606674,2022-01-01 14:12,20.833333,1
+Lisa,Olsen,lisaolsen2007@gmail.com,HG2 7HP,7956998253,Harrogate,United Kingdom (UK),GBP,606673,2022-01-01 14:10,35,1
+Zoe,Carter,zoecarter283@gmail.com,B64 5PA,7875233073,Cradley Heath,United Kingdom (UK),GBP,606672,2022-01-01 14:06,12.5,1
+Lisa,Ingram,lisamingram@hotmail.co.uk,NG18 4JH, +44 7813801631,Mansfield,United Kingdom (UK),GBP,606668,2022-01-01 13:51,12.5,1
+Rebecca,Dunning,becky_dunning@hotmail.co.uk,SK2 5XW, +44 7805060363,Stockport,United Kingdom (UK),GBP,606667,2022-01-01 13:49,8.25,1
+Angela,Rajczyk,angela.rajczyk66@icloud.com,LE4 8FS,447957455684,Leicester,United Kingdom (UK),GBP,606666,2022-01-01 13:34,10.833333,1
+Angela,Rajczyk,angela.rajczyk66@icloud.com,LE4 8FS,447957455684,Leicester,United Kingdom (UK),GBP,606666,2022-01-01 13:34,10.833333,1
+Chanelle,Mcgregor ,chanelle.94@live.co.uk,WV10 8DF,7903778407,Wolverhampton,United Kingdom (UK),GBP,606665,2022-01-01 13:32,56.666667,1
+Vicki,Loughran,vicki.loughran@hotmail.co.uk,CV3 2DA, +44 7909 781799,Coventry,United Kingdom (UK),GBP,606662,2022-01-01 13:18,45,1
+Marie,Lowry,teachmarie.lowry@gmail.com,OX18 3LB,447539380825,Carterton,United Kingdom (UK),GBP,606661,2022-01-01 13:17,13.75,1
+Lindy,Starita,lindystarita24@gmail.com,NG10 3SY,7939310152,Nottingham,United Kingdom (UK),GBP,606660,2022-01-01 13:04,23.333333,1
+Jill,Young,jillcyoung@hotmail.co.uk,WA16 9DJ,7742178942,Knutsford,United Kingdom (UK),GBP,606659,2022-01-01 12:53,25,1
+Monika,SAWICKA,mbarcz05@gmail.com,Ha01bs,7455375331,Londyn,United Kingdom (UK),GBP,606658,2022-01-01 12:44,33.75,1
+Norma,Izzard,normaizzard1953@btinternet.com,KA9 1BP,447724898831,Prestwick,United Kingdom (UK),GBP,606657,2022-01-01 12:44,29.583333,1
+Sheree,Jewitt,sazzyj29@gmail.com,BH23 7BQ,7718334849,Christchurch,United Kingdom (UK),GBP,606654,2022-01-01 12:26,12.5,1
+Claire,Dale,tunni73@gmail.com,NN2 6RD,7747600838,Northampton,United Kingdom (UK),GBP,606653,2022-01-01 12:19,18.333333,2
+Jean,Setter,jean168@live.co.uk,DY11 7EW, +44 7704942321,Kidderminster,United Kingdom (UK),GBP,606652,2022-01-01 12:19,18.75,1
+Emily ,Hodkinson,em_hodky789@hotmail.co.uk,WN5 9jy,7521681348,Wigan,United Kingdom (UK),GBP,606650,2022-01-01 11:58,20,2
+Amy,Martins,amy_martins@hotmail.co.uk,SR6 8LF,447584674349,Sunderland,United Kingdom (UK),GBP,606649,2022-01-01 11:37,34.166667,1
+Chloe,Rose,cer.rose@hotmail.co.uk,WD6 4RB,7813370010,Borehamwood,United Kingdom (UK),GBP,606648,2022-01-01 11:32,50,5
+Barbarie,Baxter,Barbariebaxter65@gmail.com,CH8 9BN,7349674534,Holywell,United Kingdom (UK),GBP,606645,2022-01-01 11:23,14.166667,1
+Barbarie,Baxter,Barbariebaxter65@gmail.com,CH8 9BN,7349674534,Holywell,United Kingdom (UK),GBP,606645,2022-01-01 11:23,14.166667,1
+danielle,Easton-Foalle,danielle.foalle@live.co.uk,PL9 9PR,7590099336,PLYMOUTH,United Kingdom (UK),GBP,606643,2022-01-01 11:06,14.583333,1
+danielle,Easton-Foalle,danielle.foalle@live.co.uk,PL9 9PR,7590099336,PLYMOUTH,United Kingdom (UK),GBP,606643,2022-01-01 11:06,30,1
+Caroline,Oliver,caroline.oliver@sky.com,SR2 9HY, +44 7979918919,Sunderland,United Kingdom (UK),GBP,606642,2022-01-01 10:38,10.833333,1
+Emma,Craig,emma1_@hotmail.co.uk,EN7 5NL,7946223495,Waltham Cross,United Kingdom (UK),GBP,606641,2022-01-01 10:37,22.5,1
+Lorna,Robertson,lornarob@hotmail.com,PH22 1TU,07752 669342,Aviemore,United Kingdom (UK),GBP,606639,2022-01-01 10:29,41.666667,1
+Antoinette,Webb,antoinette.webb@prudential.co.uk,HD9 7FE,7961681454,Holmfirth,United Kingdom (UK),GBP,606638,2022-01-01 10:23,26.25,1
+Julie,Chappell,haslerhothouse@btinternet.com,BH17 7DN,7879270276,Poole,United Kingdom (UK),GBP,606637,2022-01-01 09:47,33.333333,1
+Jacqueline,Doherty,jacqui026@hotmail.co.uk,BT29 4BQ,7715583276,Crumlin,United Kingdom (UK),GBP,606636,2022-01-01 09:40,12.5,1
+Jacqueline,Doherty,jacqui026@hotmail.co.uk,BT29 4BQ,7715583276,Crumlin,United Kingdom (UK),GBP,606636,2022-01-01 09:40,22.083333,1
+Jacqueline,Doherty,jacqui026@hotmail.co.uk,BT29 4BQ,7715583276,Crumlin,United Kingdom (UK),GBP,606636,2022-01-01 09:40,10.416667,1
+Georgina,Kelly,gkelly.80@hotmail.co.uk,EX39 3TB, +44 7494497747,Bideford,United Kingdom (UK),GBP,606635,2022-01-01 09:20,16.666667,1
+Charlotte,Mclean,Charlottemclean@outlook.com,LS167HZ,7931479005,Leeds,United Kingdom (UK),GBP,606634,2022-01-01 09:10,20.416667,1
+Charlotte,Mclean,Charlottemclean@outlook.com,LS167HZ,7931479005,Leeds,United Kingdom (UK),GBP,606634,2022-01-01 09:10,40.833333,2
+Melanie,Hill,tinkemel@yahoo.co.uk,FY6 7XP,07557 129355,Poulton-le-fylde,United Kingdom (UK),GBP,606632,2022-01-01 01:36,26.666667,1
+Angela,Smith,libertysmith22@yahoo.co.uk,HP13 7BE,7826925042,High Wycombe,United Kingdom (UK),GBP,606631,2022-01-01 00:56,20.833333,1
+Lois,Brooks,loisbrooks87@gmail.com,SK2 5XS,447950956920,Stockport,United Kingdom (UK),GBP,606630,2022-01-01 00:46,9.166667,1
+Georgina,Moulton,georginamoulton@icloud.com,CH66 1JH,7816595006,Ellesmere Port,United Kingdom (UK),GBP,606629,2022-01-01 00:37,20.833333,1
+jenny,fountain,jennyfountain@hotmail.co.uk,CM0 7LX, +44 7568149055,Southminster,United Kingdom (UK),GBP,606627,2022-01-01 00:24,20.833333,1
